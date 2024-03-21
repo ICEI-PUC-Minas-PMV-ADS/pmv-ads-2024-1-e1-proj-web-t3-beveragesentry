@@ -1,9 +1,19 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+[Dentre todas as novidades trazidas pela pandemia, um fenômeno dentre eles se destaca, a ascensão do uso de plataformas de delivery, em especial no segmento alimentício. O Brasil é responsável por aproximadamente 50% de toda a movimentação de delivery alimentício por plataformas na América Latina. A partir de 2020, início da pandemia, também quase metade dos estabelecimentos passaram a adotar canais virtuais para vendas. ( Massa,R.M, 2022). 
 
-## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
+O sucesso do serviço de delivery pode ser alcançado por meio de uma combinação de fatores que proporcionam uma experiência positiva para o cliente: Agilidade, preços, qualidade e encontrar todos os produtos desejáveis. 
+
+A falta de produtos no estoque em lojas de bebidas é um desafio comum enfrentado por varejistas e distribuidores. Envolve equilibrar a quantidade de produtos em estoque para atender à demanda dos clientes sem exceder os limites de armazenamento ou incorrer em custos excessivos de manutenção. 
+
+ Esse problema pode causar frustrações, perda de clientes e, naturalmente, menos lucro para o empreendedor. ]
+
+## Problema]
+A falta de controle da quantidade de mercadoria em estoque levando a um possível desabastecimento resultando em má experiência do cliente.  
+
+O esgotamento de seus produtos leva a frustração de seus consumidores que tendem procurar outras lojas concorrentes.  
+
+Outro ponto importante são as mercadorias paradas por muito tempo em estoque, gerando consequências negativas para empresa como prejuízo, capital de giro parado e custos de armazenagem. 
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
