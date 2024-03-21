@@ -1,4 +1,4 @@
-# Título do Projeto
+# BeverageSentry 
 
 `GRADUAÇÃO ANÁLISE E DESENVOLVIMENTO DE SISTEMAS `
 
