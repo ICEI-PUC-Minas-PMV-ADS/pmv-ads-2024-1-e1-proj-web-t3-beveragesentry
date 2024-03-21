@@ -1,12 +1,11 @@
 # Introdução
-
 [Dentre todas as novidades trazidas pela pandemia, um fenômeno dentre eles se destaca, a ascensão do uso de plataformas de delivery, em especial no segmento alimentício. O Brasil é responsável por aproximadamente 50% de toda a movimentação de delivery alimentício por plataformas na América Latina. A partir de 2020, início da pandemia, também quase metade dos estabelecimentos passaram a adotar canais virtuais para vendas. ( Massa,R.M, 2022). 
 
 O sucesso do serviço de delivery pode ser alcançado por meio de uma combinação de fatores que proporcionam uma experiência positiva para o cliente: Agilidade, preços, qualidade e encontrar todos os produtos desejáveis. 
 
 A falta de produtos no estoque em lojas de bebidas é um desafio comum enfrentado por varejistas e distribuidores. Envolve equilibrar a quantidade de produtos em estoque para atender à demanda dos clientes sem exceder os limites de armazenamento ou incorrer em custos excessivos de manutenção. 
 
- Esse problema pode causar frustrações, perda de clientes e, naturalmente, menos lucro para o empreendedor. ]
+ Esse problema pode causar frustrações, perda de clientes e, naturalmente, menos lucro para o empreendedor. 
 
 ## Problema]
 A falta de controle da quantidade de mercadoria em estoque levando a um possível desabastecimento resultando em má experiência do cliente.  
