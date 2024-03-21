@@ -7,14 +7,14 @@ A falta de produtos no estoque em lojas de bebidas é um desafio comum enfrentad
 
  Esse problema pode causar frustrações, perda de clientes e, naturalmente, menos lucro para o empreendedor. 
 
-## Problema]
+## Problema
 A falta de controle da quantidade de mercadoria em estoque levando a um possível desabastecimento resultando em má experiência do cliente.  
 
 O esgotamento de seus produtos leva a frustração de seus consumidores que tendem procurar outras lojas concorrentes.  
 
 Outro ponto importante são as mercadorias paradas por muito tempo em estoque, gerando consequências negativas para empresa como prejuízo, capital de giro parado e custos de armazenagem. 
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+
 
 
 ## Objetivos
