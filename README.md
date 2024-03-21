@@ -2,7 +2,7 @@
 
 `GRADUAÇÃO ANÁLISE E DESENVOLVIMENTO DE SISTEMAS `
 
-`DISCIPLINA`
+`Projeto de Desenvolvimento WEB`
 
 `1`
 
