@@ -1,25 +1,25 @@
 # Título do Projeto
 
-`CURSO`
+`GRADUAÇÃO ANÁLISE E DESENVOLVIMENTO DE SISTEMAS `
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Preparamos um projeto para desenvolver um aplicativo de gestão de estoque, visando proporcionar às empresas uma ferramenta eficiente e intuitiva para o controle em tempo real de seus inventários.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Jaimir Silvano Junior
+* Danillo Alves Ferreira Neves 
+* Gustavo de Moraes Leite Figueiredo 
+* Paulo Leonardo de Oliveira Ferreira 
+* Wenderson Douglas Oliveira
 * Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor
+* Simone Alves Nogueira 
 
 # Documentação
 
