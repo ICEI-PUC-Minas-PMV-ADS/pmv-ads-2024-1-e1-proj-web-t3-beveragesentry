@@ -53,16 +53,16 @@
  </td>
 </tr>
 <tr>
-<td><b>Necessidades</b> 1. Alertar meu gestor de quantos e quais produtos consegui vender no dia. 
+<td><b>Necessidades</b>  
+</td>
+<td>1. 1. Alertar meu gestor de quantos e quais produtos consegui vender no dia. 
 
 2. Registrar as entradas e saídas dos produtos. 
 
 3. Saber quando tenho que avisar meu gestor sobre compras. 
 
-4. Melhorar a gestão entrada e saída de produtos na loja. 
-
-5. Avisar o gestor sobre produtos próximos a data de validade</td>
-<td>1. .</td>
+4. Melhorar a gestão entrada e saída de produtos na loja.
+5.  Avisar o gestor sobre produtos próximos a data de validade.</td>
 </tr>
 </tbody>
 </table>
