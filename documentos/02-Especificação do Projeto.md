@@ -55,7 +55,7 @@
 <tr>
 <td><b>Necessidades</b>  
 </td>
-<td>1. 1. Alertar meu gestor de quantos e quais produtos consegui vender no dia. 
+<td>1. Alertar meu gestor de quantos e quais produtos consegui vender no dia. 
 
 2. Registrar as entradas e saídas dos produtos. 
 
