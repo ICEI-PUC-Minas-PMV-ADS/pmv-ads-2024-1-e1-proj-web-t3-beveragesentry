@@ -2,7 +2,7 @@
 
 ## Perfis de Usuários
 
-Perfil 01 Proprietário. 
+
 
 Descrição: 
 
@@ -38,7 +38,8 @@ Necessidades:
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Dono do estabelecimento, responsável por administrar e atendimento ao público.  
+ </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
