@@ -34,7 +34,7 @@ Necessidades:
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil Proprietário </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
