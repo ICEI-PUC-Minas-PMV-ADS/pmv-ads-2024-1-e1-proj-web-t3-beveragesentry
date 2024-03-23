@@ -71,6 +71,7 @@
 
 ## Histórias de Usuários
 
+
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Proprietário da distribuidora.|Organizar compras de produtos específicos para a distribuidora.|Não faltar nenhum produto no estoque.|
