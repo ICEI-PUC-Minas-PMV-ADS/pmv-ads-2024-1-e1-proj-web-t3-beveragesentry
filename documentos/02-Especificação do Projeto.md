@@ -80,9 +80,14 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-
+| Proprietário da distribuidora.|Organizar compras de produtos específicos para a distribuidora.|Não faltar nenhum produto no estoque.|
+| Funcionário.|Facilitar o registro de entrada e saída do estoque.|Ganhar mais tempo.
+| Proprietário da distribuidora.| Reduzir produtos parados no estoque.|Não deixar capital parado.|
+| Proprietário da distribuidora.|Me programar melhor para datas comemorativas onde tenho nível elevado de vendas.|Não perder vendas por falta de estoque em datas sazonais.|
+|Funcionário.|Não ter que contabilizar os produtos recorrentemente.|Ganhar mais tempo e fazer menos esforço.|
+|Funcionário.|Informar melhor meu gestor sobre minhas vendas.|Não perder comissão por falta de anotações.|
+|Proprietário da distribuidora.|Receber relatórios fidedignos sobre entradas e saídas dos meus produtos.|Elaborar melhores formas de investimento.|
+|Proprietário da distribuidora.|Reduzir produtos extraviados.|Entender onde meus produtos estão sendo perdidos.|
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
