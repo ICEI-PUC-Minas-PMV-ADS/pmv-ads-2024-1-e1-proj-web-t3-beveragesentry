@@ -48,8 +48,8 @@
 <th colspan="2">Perfil Funcionário </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td> Responsável pelo atendimento ao público e controle do estoque. 
-<td width="600px">  
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">  Responsável pelo atendimento ao público e controle do estoque
  </td>
 </tr>
 <tr>
