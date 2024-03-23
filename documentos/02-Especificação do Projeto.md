@@ -43,7 +43,21 @@ Necessidades:
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1. Entender quais produtos necessito comprar e quando. 
+
+2. Saber qual funcionário vendeu mais durante o mês 
+
+3. Saber quais produtos são os mais vendidos para me programar melhor. 
+
+4. Lidar com o atendimento de forma mais ágil e prática. 
+
+5. Lembrar quando meus produtos estão próximos a data de vencimento. 
+
+6. Saber quais produtos estão a mais tempo parados no estoque. 
+
+7. Me certificar que nenhum produto está sendo extraviado. 
+
+8. Reduzir a necessidade do papel no meu estabelecimento.</td>
 </tr>
 </tbody>
 </table>
