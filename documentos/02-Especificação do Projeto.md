@@ -115,14 +115,14 @@
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 | A aplicação ser capaz de integrar com aplicativos de entrega. | MÉDIA  | 
-| RNF-02 |  A aplicação deve ser capaz de criptografar os dados do estoque do cliente. | BAIXA   | 
-| RNF-03 | A aplicação deve se manter atualizada ao longo do tempo. | MÉDIA   | 
-| RNF-04 | A aplicação deve ser capaz de operar mais de 01 usuário por conta. | MÉDIA   | 
+| RNF-02 |  A aplicação deve ser capaz de criptografar os dados do estoque do cliente. | BAIXA | 
+| RNF-03 | A aplicação deve se manter atualizada ao longo do tempo. | MÉDIA| 
+| RNF-04 | A aplicação deve ser capaz de operar mais de 01 usuário por conta. | MÉDIA | 
 | RNF-05 | A aplicação ser rápida e de fácil uso. | MÉDIA  | 
-| RNF-06 | O sistema deve funcionar 24 horas por dia, todos os dias da semana. | ALTA   | 
-| RNF-07 | O sistema deve estar acessível na web. | ALTA   | 
-| RNF-08 | O sistema ser capaz de conectar a forma de pagamento via máquinas de cartão.| MÉDIA   | 
-| RNF-09 | O software deve ser capaz de lidar com grandes volumes de dados e operações simultâneas de forma eficiente, garantindo tempos de resposta rápidos. | MÉDIA   | 
+| RNF-06 | O sistema deve funcionar 24 horas por dia, todos os dias da semana. | ALTA | 
+| RNF-07 | O sistema deve estar acessível na web. | ALTA  | 
+| RNF-08 | O sistema ser capaz de conectar a forma de pagamento via máquinas de cartão.| MÉDIA | 
+| RNF-09 | O software deve ser capaz de lidar com grandes volumes de dados e operações simultâneas de forma eficiente, garantindo tempos de resposta rápidos. | MÉDIA | 
 
 **Prioridade: Alta / Média / Baixa. 
 
