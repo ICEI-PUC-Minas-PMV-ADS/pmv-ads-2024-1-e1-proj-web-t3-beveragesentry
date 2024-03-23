@@ -19,18 +19,32 @@ Outro ponto importante são as mercadorias paradas por muito tempo em estoque, g
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
+O objetivo desse estudo é desenvolver soluções para evitar o desabastecimento do seu deposito, controlando a quantidade de mercadorias recebidas e quantidade que é comercializada sem correr risco de esgotar algum produto ou sua retenção. 
+
+Objetivos específicos:  
+
+Implementação de um sistema de gestão de estoque que possibilite monitorar os níveis de estoque e receber alertas automáticos quando em baixos níveis.  
+
+Monitoramento em tempo real das vendas e identificação da saída rápida de algum produto além do esperado e medidas para seu reabastecimento.  
+
+Reabastecimento frequente mantendo uma programação regular de reposição evitando níveis baixos de mercadoria. 
+
+Realização de promoções e descontos para distribuir o volume de vendas ao longo do tempo e evitar mercadoria parada ou aumento da demanda que pode levar o esgotamento do produto. 
+
+Antecipação das variações sazonais na demanda e ajuste dos níveis de estoque de acordo com as necessidades. 
  
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Segundo Hennig-Thurau et al. (2002) ressaltam que as interações entre o cliente e a marca têm um impacto significativo na satisfação do cliente.  
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Uma experiência positiva durante a entrega, incluindo comunicação clara sobre o status do pedido, cordialidade do entregador e resolução eficaz de problemas, contribui para uma interação positiva que fortalece os laços entre o cliente e a marca, portanto, a satisfação de encontrar produtos desejados na loja não apenas contribui para a satisfação do cliente, mas também influencia a percepção de conveniência e a escolha da loja pelo consumidor. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+ Isso destaca a importância para os varejistas de garantir uma adequada gestão de estoque e a acessibilidade dos produtos pelos clientes. 
 
+Segundo Kotler (1998), a satisfação do cliente é a sensação de prazer ou desapontamento resultante da comparação do desempenho percebido de um produto ou serviço em relação às expectativas do cliente.  
+
+Quando as expectativas do cliente são atendidas ou superadas, isso leva a uma maior satisfação e, consequentemente, a uma maior probabilidade de recompra e lealdade à marca. 
 ## Público-Alvo
 
 [Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
