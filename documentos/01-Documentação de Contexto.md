@@ -47,12 +47,14 @@ Segundo Kotler (1998), a satisfação do cliente é a sensação de prazer ou de
 Quando as expectativas do cliente são atendidas ou superadas, isso leva a uma maior satisfação e, consequentemente, a uma maior probabilidade de recompra e lealdade à marca. 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+O foco desse trabalho está nos proprietários de pequenas lojas de bebidas em geral, microempresas ou empresas de pequeno porte, que ao lidar com produtos específicos e muitas vezes sazonais, podem se beneficiar de um software que facilite o controle de estoque, garantindo uma gestão eficiente dos produtos disponíveis. 
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+O método utilizado para conhecer melhor esse público-alvo foi pesquisa de campo, que envolveu a coleta de dados por meio de um questionário, realizado diretamente nos locais de estudo, possibilitando uma análise detalhada e interativa, e gerando as seguintes informações das 07 distribuidoras:  
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
+As empresas apresentam faturamento mensal em torno de R$ 15.000,00 a  R$ 45.000,00.  
 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+As empresas contam com baixo investimento em infraestruturas e modernização dos seus negócios. 
 
+O público atendido por essas lojas inclui residentes locais, moradores próximos, frequentadores habituais da região e clientes que buscam conveniência e proximidade para adquirir bebidas. 
+
+A região atendida pelo público das lojas de bebidas é composta pelos bairros próximos ou adjacentes à loja, onde os clientes residem ou frequentam regularmente. Isso pode incluir uma área geográfica específica, como um bairro ou uma parte da cidade, dependendo do alcance e da localização da loja. 
