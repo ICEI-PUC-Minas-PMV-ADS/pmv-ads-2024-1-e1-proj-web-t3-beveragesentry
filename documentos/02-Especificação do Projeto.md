@@ -115,7 +115,7 @@
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 | A aplicação ser capaz de integrar com aplicativos de entrega. | MÉDIA  | 
-| RNF-02 |  A aplicação deve ser capaz de criptografar os dados do estoque do cliente. | BAIXA | 
+| RNF-02 | A aplicação deve ser capaz de criptografar os dados do estoque do cliente. | BAIXA | 
 | RNF-03 | A aplicação deve se manter atualizada ao longo do tempo. | MÉDIA| 
 | RNF-04 | A aplicação deve ser capaz de operar mais de 01 usuário por conta. | MÉDIA | 
 | RNF-05 | A aplicação ser rápida e de fácil uso. | MÉDIA  | 
