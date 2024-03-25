@@ -15,7 +15,7 @@ Preparamos um projeto para desenvolver um aplicativo de gestão de estoque, visa
 * Gustavo de Moraes Leite Figueiredo 
 * Paulo Leonardo de Oliveira Ferreira 
 * Wenderson Douglas Oliveira
-* Nome completo do aluno 6
+  
 
 ## Orientador
 
