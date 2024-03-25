@@ -4,9 +4,11 @@
 
 `Projeto de Desenvolvimento WEB`
 
-`1`
+`1` Preparamos um projeto para desenvolver um aplicativo de gestão de estoque, visando proporcionar às empresas uma ferramenta eficiente e intuitiva 
+para o controle em tempo real de seus inventários.
 
-Preparamos um projeto para desenvolver um aplicativo de gestão de estoque, visando proporcionar às empresas uma ferramenta eficiente e intuitiva para o controle em tempo real de seus inventários.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/bd5e36a5-8ac1-4a1c-ba73-9a8c6c172dff)
+
 
 ## Integrantes
 
