@@ -21,7 +21,7 @@ para o controle em tempo real de seus inventários.
 
 ## Orientador
 
-* Simone Alves Nogueira 
+* Simone Alves Nogueira :black_heart:
 
 # Documentação
 
