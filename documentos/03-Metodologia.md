@@ -9,11 +9,11 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Danillo Alves Ferreira Neves, Gustavo de Moraes Leite Figueiredo,Jaimir Silvano Junior, Paulo Leonardo de Oliveira Ferreira, Wenderson Douglas Oliveira 
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+
+- Scrum Master: Danillo Alves Ferreira Neves.
+- Product Owner: Paulo Leonardo de Oliveira Ferreira.
+- Equipe de Desenvolvimento: Danillo Alves Ferreira Neves, Gustavo de Moraes Leite Figueiredo,Jaimir Silvano Junior, Paulo Leonardo de Oliveira Ferreira, Wenderson Douglas Oliveira.
+- Equipe de Design: Jaimir Silvano Junior, Gustavo de Moraes Leite Figueiredo, Wenderson Douglas Oliveira.
 
 
 
