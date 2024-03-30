@@ -59,7 +59,7 @@ As ferramentas utilizadas no projeto foram:
 <li>Ferramenta de armazenagem e edição de códigos que pode ser usado por colaboradores.
 
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+Os artefatos do projeto são desenvolvidos a partir das plataformas Github e Figma e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
