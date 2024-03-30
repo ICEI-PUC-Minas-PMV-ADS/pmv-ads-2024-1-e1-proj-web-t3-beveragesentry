@@ -3,16 +3,23 @@
 
 ## User Flow
 
+Um diagrama de user flow é um processo de mapeamento visual, organizado a partir de um passo a passo bem definido, que descreve o que um usuário faz para concluir uma tarefa ou um objetivo dentro do seu produto.
 
-<img width="505" alt="fluxo 2" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/760832b8-3905-4d0f-9eb6-50e81d5adf96">
+![Cópia de Flowchart Template (5)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/f276fe97-8e5e-47de-9baa-4557e5567e57)
+
+Figura 1- User Flow
 
 
 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+[Cópia de Flowchart Template (3).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/files/14813376/Copia.de.Flowchart.Template.3.pdf)
+
+
+
+
+
+
+
 
 ## Protótipo
 
