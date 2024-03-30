@@ -30,6 +30,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry e esta apresentado, no estado atual, no quadro abaixo:
  <img width="858" alt="kanban" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/dde4b311-206e-4a3d-9d9b-fe4ab55505fc">
 
+Figura 2 - Tela do kanban no GitHub utilizada pelo grupo
 
 
 
