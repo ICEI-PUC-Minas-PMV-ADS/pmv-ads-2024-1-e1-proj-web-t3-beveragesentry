@@ -55,16 +55,15 @@ ESTOQUE/VENDAS/RELATÓRIO
 
 PRODUTO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/1b07cc82-ef7b-480e-af6c-9796cb50fd2b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e7449998-1efd-443c-a5fb-54b465fe5883)
 
 CADASTRO DO PRODUTO 
 
-![Cadastrar produtos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/851bb0ba-b3fc-4032-a5e3-f68888d36eb1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/72386c17-59fe-4d92-80e2-b66b0f1dd95d)
 
 DETALHES DO PRODUTO
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a954197d-dfc6-4740-995d-1e6146b3b199)
-
 
 RELATÓRIO
 
