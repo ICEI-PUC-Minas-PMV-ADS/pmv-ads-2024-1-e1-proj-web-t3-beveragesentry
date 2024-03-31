@@ -65,6 +65,14 @@ DETALHES DO PRODUTO
 
 ![WhatsApp Image 2024-03-30 at 10 05 40 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a7e634bb-d7c3-485b-86ec-711936871767)
 
+RELATÓRIO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/a29da181-f550-4b22-a5f3-34c606970e3e)
+
+VENDAS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/4d1010a2-fdaa-44b2-a6fb-50d92127055c)
+
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
