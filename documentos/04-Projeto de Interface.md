@@ -63,7 +63,8 @@ CADASTRO DO PRODUTO
 
 DETALHES DO PRODUTO
 
-![WhatsApp Image 2024-03-30 at 10 05 40 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a7e634bb-d7c3-485b-86ec-711936871767)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a954197d-dfc6-4740-995d-1e6146b3b199)
+
 
 RELATÓRIO
 
