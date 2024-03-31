@@ -41,6 +41,19 @@ LOGIN
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/9d9e6aa3-a5fe-4d4c-9287-ce82e73d3e34)
 
+CADASTRO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/f7d669dd-aea3-406b-8e2e-70563e8d02f2)
+
+RECUPERAR SENHA
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/24887a33-bab8-4dfc-8e6c-f5416d12c584)
+
+ESTOQUE/VENDAS/RELATÓRIO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5779ad30-e8d6-4815-97df-4e7116470caa)
+
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
