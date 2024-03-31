@@ -53,8 +53,11 @@ ESTOQUE/VENDAS/RELATÓRIO
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/b15d17f7-422e-4fdf-b072-350350d652e7)
 
+PRODUTO
 
- 
+![PRODUTOS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3c0a7d83-d3a4-4c35-bc1a-8b71fc1ac446)
+
+
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 >- Ferramentas:
