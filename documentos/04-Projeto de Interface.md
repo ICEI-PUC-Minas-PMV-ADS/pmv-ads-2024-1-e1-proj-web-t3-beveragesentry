@@ -55,7 +55,8 @@ ESTOQUE/VENDAS/RELATÓRIO
 
 PRODUTO
 
-![PRODUTOS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3c0a7d83-d3a4-4c35-bc1a-8b71fc1ac446)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/492ed5b8-3d1a-49ef-97fe-d23a774400e3)
+
 
 CADASTRO DO PRODUTO 
 
