@@ -43,15 +43,15 @@ LOGIN
 
 CADASTRO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/f7d669dd-aea3-406b-8e2e-70563e8d02f2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/3833ae10-b631-48a4-8c6b-a509a77a4d28)
 
 RECUPERAR SENHA
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/24887a33-bab8-4dfc-8e6c-f5416d12c584)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a9a3a8ab-a499-4397-9197-dbfc23b333a8)
 
 ESTOQUE/VENDAS/RELATÓRIO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5779ad30-e8d6-4815-97df-4e7116470caa)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/b15d17f7-422e-4fdf-b072-350350d652e7)
 
 
  
