@@ -43,7 +43,8 @@ LOGIN
 
 CADASTRO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/01e50273-4b1a-4f96-93b8-21a20757d8fb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/2a041bf7-18a8-486f-a703-0af5b6d82c98)
+
 
 RECUPERAR SENHA
 
