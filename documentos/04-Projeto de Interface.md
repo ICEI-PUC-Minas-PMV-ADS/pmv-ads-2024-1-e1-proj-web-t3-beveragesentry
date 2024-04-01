@@ -60,7 +60,8 @@ PRODUTO
 
 CADASTRO DO PRODUTO 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5cf0de05-3551-4346-b961-0ee407d4ca98)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/2221b585-cadc-4139-854f-62e6995035a8)
+
 
 DETALHES DO PRODUTO
 
