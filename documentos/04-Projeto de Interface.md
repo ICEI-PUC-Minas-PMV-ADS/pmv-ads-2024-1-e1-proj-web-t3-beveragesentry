@@ -33,47 +33,58 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/1c889cac-cfd4-4f90-844a-0269e3204699)
 
-HOME PAGE
+INTERFACE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/6e54bb91-0042-4db6-a787-84bb69146c72)
-
-LOGIN
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/9d9e6aa3-a5fe-4d4c-9287-ce82e73d3e34)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5af56dcf-4748-4ce7-b216-913acb4d8b9d)
 
 CADASTRO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/1bc52689-d55d-46fd-aff7-97a4ff81dc06)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/ca321642-058e-4167-857d-a81df66dc34f)
+
+LOGIN
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/c6d5ec7a-2140-4097-bc88-0226a4361088)
 
 RECUPERAR SENHA
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/0a1dc529-8508-4bc3-bed2-8946d9cc0e9e)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/d29d5a04-ec88-4b6b-bb42-ebb846b39eeb)
 
-ESTOQUE/VENDAS/RELATÓRIO
+NOVA SENHA
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/cc93934a-d637-413e-8daa-22b39a9dab65)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/9cc2a212-0e7a-4671-af48-d3e76cd1c1b8)
 
+HOME
 
-PRODUTO
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/d5bb832a-ea92-478d-b35e-d71aa7ac30c8)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e7449998-1efd-443c-a5fb-54b465fe5883)
+ESTOQUE
 
-CADASTRO DO PRODUTO 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/4ae1c17b-6020-4ae5-b580-94a291d4f0ff)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/2221b585-cadc-4139-854f-62e6995035a8)
+DESCRIÇÃO PRODUTO ESTOQUE
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/c4589eec-b1c1-4c1b-bdcf-d53aaf8b36d2)
 
-DETALHES DO PRODUTO
+CADASTRO PRODUTO ESTOQUE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a954197d-dfc6-4740-995d-1e6146b3b199)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/eacba51d-e004-49d7-ba21-3665d65698de)
+
+VENDAS E METAS FUNCIONÁRIOS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a448a0c4-6d8f-4f32-8d44-8e53703e40f8)
+
+HOME RELATÓRIO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/9373a6fd-b3d0-4e7e-a070-e9bd0887affd)
 
 RELATÓRIO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/a29da181-f550-4b22-a5f3-34c606970e3e)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/4764a7ed-be7a-4751-b5ce-1b612ea6ed4d)
 
-VENDAS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/4d1010a2-fdaa-44b2-a6fb-50d92127055c)
+PROTÓTIPO NAVEGÁVEL
+https://www.figma.com/file/s2weUHYzDjOmlmhsmrE6bU/Protótipo-de-Baixa-Fidelidade-(Community)?type=design&node-id=149-5&mode=design&t=VoLFWEM89mWHJNrZ-0
+
 
 
 > **Links Úteis**:
