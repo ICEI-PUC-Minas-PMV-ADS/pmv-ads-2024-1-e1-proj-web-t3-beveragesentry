@@ -3,16 +3,16 @@
 
 ## User Flow
 
-Um diagrama de user flow é um processo de mapeamento visual, organizado a partir de um passo a passo bem definido, que descreve o que um usuário faz para concluir uma tarefa ou um objetivo dentro do seu produto.
+Um diagrama de user flow é um processo de mapeamento visual, organizado a partir de um passo a passo bem definido, que descreve o que um usuário faz para concluir uma tarefa ou um objetivo dentro do seu produto. Para criação do user flow foi utilizado a ferramenta Miro e que pode ser visualizado no link: https://miro.com/app/board/uXjVKZodQDE=/?moveToWidget=3458764584830094493&cot=14
 
-![Cópia de Flowchart Template (5)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/f276fe97-8e5e-47de-9baa-4557e5567e57)
+![User Flow BS - Quadro 1 (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/325fb2d1-46fc-4b0c-bb10-c0565dbd383c)
+
+
 
 Figura 1- User Flow
 
 
 
-
-[Cópia de Flowchart Template (3).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/files/14813376/Copia.de.Flowchart.Template.3.pdf)
 
 
 
