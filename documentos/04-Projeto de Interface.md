@@ -68,6 +68,10 @@ CADASTRO PRODUTO ESTOQUE
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/eacba51d-e004-49d7-ba21-3665d65698de)
 
+ADICIONAR PRODUTO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/4fc4aa0e-991e-4150-851d-476b4f6b1ffc)
+
 VENDAS E METAS FUNCIONÁRIOS
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a448a0c4-6d8f-4f32-8d44-8e53703e40f8)
