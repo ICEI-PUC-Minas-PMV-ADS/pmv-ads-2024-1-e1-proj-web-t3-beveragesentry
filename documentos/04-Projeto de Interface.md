@@ -70,7 +70,7 @@ CADASTRO PRODUTO ESTOQUE
 
 ADICIONAR PRODUTO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/441f7015-3b26-4ef7-aa1e-a45baaf4deda)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e49ec3f4-8dd6-4f40-bbce-cc5fef54ab76)
 
 VENDAS E METAS FUNCIONÁRIOS
 
