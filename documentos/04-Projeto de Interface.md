@@ -107,7 +107,9 @@ DESCRIÇÃO PRODUTO
 
 CADASTRO PRODUTO ESTOQUE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/eacba51d-e004-49d7-ba21-3665d65698de)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/77699951-0320-452f-8c30-251f13e1c030)
+
 
 ADICIONAR PRODUTO
 
