@@ -29,32 +29,46 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
+HOMEPAGE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/1c889cac-cfd4-4f90-844a-0269e3204699)
 
-INTERFACE
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/26375fa2-d793-47f2-bc97-6f12655c4b7a)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5af56dcf-4748-4ce7-b216-913acb4d8b9d)
+
+
 
 CADASTRO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/ca321642-058e-4167-857d-a81df66dc34f)
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/405a2920-3a44-472c-a778-e7ce045d9230)
+
+
+
 
 LOGIN
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/c6d5ec7a-2140-4097-bc88-0226a4361088)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/9f3ab425-6953-44fc-9654-4c788b1e2262)
+
+
+
 
 RECUPERAR SENHA
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/d29d5a04-ec88-4b6b-bb42-ebb846b39eeb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/34933dd4-c6d3-4233-a155-960b87c5b445)
+
+
 
 NOVA SENHA
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/9cc2a212-0e7a-4671-af48-d3e76cd1c1b8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/0b2c6c27-ef4f-4d82-9f05-1e0846751d34)
+
+
 
 HOME
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/d5bb832a-ea92-478d-b35e-d71aa7ac30c8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/7465ecec-4ee8-4d22-896b-b48cbbe0e7f0)
+
+
+
 
 ESTOQUE
 
