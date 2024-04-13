@@ -63,9 +63,15 @@ NOVA SENHA
 
 
 
-HOME
+OPÇÕES DE AÇÃO
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/7465ecec-4ee8-4d22-896b-b48cbbe0e7f0)
+
+
+OPÇÕES DE AÇÃO
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/818945ac-da80-4931-8974-0b81ef874547)
 
 
 
