@@ -123,9 +123,10 @@ VENDAS E METAS FUNCIONÁRIOS
 
 HOME RELATÓRIO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/9373a6fd-b3d0-4e7e-a070-e9bd0887affd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/de136383-5032-4d70-a84d-60fb019cc993)
 
-RELATÓRIO
+
+DADPOS RELATÓRIO
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/4764a7ed-be7a-4751-b5ce-1b612ea6ed4d)
 
