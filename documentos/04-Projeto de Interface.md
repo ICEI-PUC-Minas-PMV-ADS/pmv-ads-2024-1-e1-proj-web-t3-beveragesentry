@@ -118,7 +118,8 @@ ADICIONAR PRODUTO
 
 VENDAS E METAS FUNCIONÁRIOS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a448a0c4-6d8f-4f32-8d44-8e53703e40f8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/b6f2b0d5-348d-4808-aaa0-3b8f4e31d166)
+
 
 HOME RELATÓRIO
 
