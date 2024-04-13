@@ -90,12 +90,5 @@ https://www.figma.com/file/s2weUHYzDjOmlmhsmrE6bU/Protótipo-de-Baixa-Fidelidade
 
 
 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
-
 
 
