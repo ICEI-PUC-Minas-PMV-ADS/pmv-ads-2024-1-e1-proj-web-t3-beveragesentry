@@ -75,14 +75,35 @@ OPÇÕES DE AÇÃO
 
 
 
+OPÇÕES DE AÇÃO
 
-ESTOQUE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/4ae1c17b-6020-4ae5-b580-94a291d4f0ff)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/8df15c07-d887-49f8-b1ab-49aa542a68c0)
 
-DESCRIÇÃO PRODUTO ESTOQUE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/c4589eec-b1c1-4c1b-bdcf-d53aaf8b36d2)
+
+
+
+HOME ESTOQUE
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/caf122c1-dd4a-440f-8f23-cb7a7fdf9a31)
+
+
+
+DESCRIÇÃO PRODUTO 
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/25cb8a83-29d2-47d0-81c0-00110a284556)
+
+
+
+DESCRIÇÃO PRODUTO
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/85d87cd4-e07d-4b67-88ab-0573e2da5e16)
+
+
+
 
 CADASTRO PRODUTO ESTOQUE
 
