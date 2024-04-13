@@ -126,9 +126,14 @@ HOME RELATÓRIO
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/de136383-5032-4d70-a84d-60fb019cc993)
 
 
-DADPOS RELATÓRIO
+DADOS RELATÓRIO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/4764a7ed-be7a-4751-b5ce-1b612ea6ed4d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/83dfcfc7-3a38-4ed8-a2b0-64683a77e198)
+
+
+DADOS RELATÓRIO
+
+
 
 
 PROTÓTIPO NAVEGÁVEL
