@@ -7,7 +7,8 @@ Responsável:jaimir
 Será a tela que o usuário verá ao início do processo, onde o mesmo conseguira ir até a tela de login, saber mais sobre as funcionalidades do produto e efeteuar contato com a empresa que efetua a venda desse software.
 tela utiliza HTML E CSS.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/b2e89430-41e4-4fec-afbf-41e7ac04505c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/ff10c64e-97ae-461f-873c-32fa04a85be3)
+
 
 
 #### Requisito atendido
