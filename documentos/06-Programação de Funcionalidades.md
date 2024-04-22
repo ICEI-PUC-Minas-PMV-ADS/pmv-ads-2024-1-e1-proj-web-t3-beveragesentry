@@ -1,12 +1,26 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+### Homepage
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+Responsável:jaimir
 
-### Título da funcionalidade
+Será a tela que o usuário verá ao início do processo, onde o mesmo conseguira ir até a tela de login, saber mais sobre as funcionalidades do produto e efeteuar contato com a empresa que efetua a venda desse software, a tela ainda está em desenvolvimento, não sendo a tela final.
 
-[Adicione imagem da funcionalidade/tela]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/ca2b356a-fbae-4d26-80de-f24d25750491)
+
+#### Requisito atendido
+
+A tela apresenta responsividade ao passar o mause nos botões do canto superior direito, alterando a cor graduamente.
+
+
+### Tela de Nova Senha
+
+Responsável: Paulo
+
+O acesso a tela de Nova Senha poderá ser feito através da opção de menu “Recuperar Senha”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/7f935be4-e403-44b2-b7da-85d30f102f05)
+
 
 
 #### Requisito atendido
