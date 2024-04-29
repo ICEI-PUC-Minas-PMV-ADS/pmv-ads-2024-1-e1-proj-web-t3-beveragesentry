@@ -22,7 +22,8 @@ Responsável: Paulo
 
 O acesso a tela de Nova Senha poderá ser feito através da opção de menu “Recuperar Senha”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/7f935be4-e403-44b2-b7da-85d30f102f05)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4c52fa1a-47fa-473f-89cc-96e76506def4)
+
 
 
 
