@@ -51,6 +51,11 @@ legend {
     transition: .5s;
 }
 
+.input-efeito:hover {
+
+    color: rgb(252, 4, 148);
+}
+
 .input-nome ~ .input-efeito {
     top: -20px;
   
