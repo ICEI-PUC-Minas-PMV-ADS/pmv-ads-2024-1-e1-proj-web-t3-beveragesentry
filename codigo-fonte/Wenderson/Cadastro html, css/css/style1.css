@@ -4,7 +4,7 @@ body{
   }
 
  .cadastrar {
-    color: black;
+    color: rgb(212, 212, 212);
    position: absolute;
    top: 50%;
    left: 50%;
@@ -15,6 +15,7 @@ body{
    width: ;
    }
 
+   
    fieldset {
     border: 2px solid rgb(112, 115, 122);
 }
@@ -23,9 +24,9 @@ legend {
  border: 1px solid black;
  padding: 4px;
  text-align: center;
- background-color: rgb(112, 115, 122);
+ background-color: rgb(19, 16, 16);
  border-radius: 7px;
- color: black;
+ color: rgb(212, 212, 212);
 }
 
 .cadastrar {
@@ -40,7 +41,7 @@ legend {
     color: white;
     font-size: 15px;
     width: 89%;
-    letter-spacing: 1px;
+    letter-spacing: px;
 }
 
 .input-efeito {
@@ -49,11 +50,6 @@ legend {
     left: 0px;
     pointer-events: none;
     transition: .5s;
-}
-
-.input-efeito:hover {
-
-    color: rgb(252, 4, 148);
 }
 
 .input-nome ~ .input-efeito {
