@@ -5,24 +5,22 @@
 }
 
 body{
-    background-image: linear-gradient(45deg, rgb(31 60 90),rgb(0 0 0));
+    background: url("https://source.unsplash.com/1600x900/?landscape");
     font-family: arial, sans-serif, sans-serif;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0;
-    padding: 0;
 }
 
 .container{
     width: 420px;
-    background: rgb(45, 64, 119);
+    background: transparent;
     border: 2px solid #505050;
     backdrop-filter: blur(20px);
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 30px 40px;
 }
 
@@ -41,18 +39,18 @@ h1{
 .input-container input{
     width: 100%;
     height: 100%;
-    background-color:;
+    background: transparent;
     border: none;
     outline: none;
-    border: 2px solid #2d4077e6;
+    border: 2px solid rgba(255, 255, 255, .2);
     border-radius: 10px;
-    font-size: 15px;
-    color: #000000;
+    font-size: 16px;
+    color: #fff;
     padding: 20px 45px 20px 20px;
 }
 
 .input-container input::placeholder{
-   color: #000000; 
+   color: #fff; 
 }
 
 .input-container img{
@@ -63,7 +61,7 @@ h1{
 }
 
 .input-container a {
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 5px;
     color: #fff;
     text-decoration: none;
@@ -76,23 +74,23 @@ h1{
 .submit-button{
     width: 335px;
     height: 50px;
-    background-color: #ca8c1a;
+    background-color: #fff;
     border: none;
     border-radius: 10px;
-    color: #fff;
+    color: #000000;
     font-weight: 500;
     margin-top: 24px;
     cursor: pointer;
     outline: none;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .submit-button:hover{
-    background-color: #605d5d; 
+    background-color: #838282; 
 }
 
 .register-link p {
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
     font-weight: 500;
 
@@ -104,7 +102,7 @@ h1{
 }
 
 .register-link p a {
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
     font-weight: 700;
     text-decoration: none;
@@ -112,13 +110,4 @@ h1{
 
 .register-link p a:hover{
     text-decoration: underline;
-}
-
-.select-ag{
-    width: 335px;
-    font-size: 15px;
-    color: #000000;
-    font-weight: 500;
-    border-radius: 10px;
-    background: #fff;
 }

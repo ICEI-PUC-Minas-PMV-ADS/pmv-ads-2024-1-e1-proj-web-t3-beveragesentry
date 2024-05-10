@@ -1,0 +1,533 @@
+* { 
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+
+}
+
+
+.conteiner1 {
+display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ margin-top: 25px;
+
+}
+
+.card1 {
+ width: 250px;
+ background-image: none;
+ border-radius: 04px;
+ overflow: hidden;
+ box-shadow: 0px 2px 4px rgba(253, 250, 250, 0.2);
+ margin: 08px;
+
+
+
+}
+
+.card1 img {
+    width: 100%;
+    height: auto;
+
+
+}
+
+.teste {
+padding: 8px;
+
+}
+
+
+
+.card1 h1 {
+font-size: 18px;
+margin-bottom: 06px;
+color: white;
+
+
+}
+
+.teste .bnt {
+    display: inline-block;
+    padding: 06px 13px;
+    background-color: #ca8c1a;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 0.5px;
+    color: white;
+    
+
+}
+
+.teste:hover .bnt {
+background-color: #7c6334;
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cab {
+    background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+    height: 8vh;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    
+
+}
+
+.caixa-pesquisa {
+    background-image: none;
+    padding: 20px;
+
+}
+
+.pesquisa {
+padding: 9px ;
+display: flex;
+align-items: center;
+gap: 5px;
+background-color: white;
+border-radius: 30px;
+
+
+}
+
+.pesquisa i {
+ color: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+ 
+
+}
+
+.pesquisa input {
+ width: 260px;
+ padding: 5px 15px;
+ border-radius: 30px;
+ background-color: transparent;
+ border: none;
+ font-size: 15px;
+ margin-left: ;
+ border-color: none;
+
+}
+
+.pesquisa input:focus-visible {
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slide {
+    height: 150%;
+    height: 60%;
+    position: absolute;
+    background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+    transition: 0.5s ease;
+    justify-content: flex-end;
+    padding-right: 85px;
+    transform: translate(-600px);
+    
+    }
+
+    .slide h1 {
+     color: white;
+     font-weight: 800;
+     text-align: right;
+     padding: 10px 104px;
+     padding-right: 30px;
+     pointer-events: none;
+     
+    }
+
+    ul {
+ list-style: none;
+
+    }
+
+    ul a {
+     color: white;
+     font-weight: 500;
+     padding: 5px 0;
+     display: block;
+     text-transform: capitalize;
+     text-decoration: none;
+     transition: 0.2s ease-out;
+
+    }
+
+    ul a:hover  i {
+    color: #ca8c1a;
+    
+
+    } 
+
+    
+
+    
+
+    ul a i {
+     width: 40px;
+     text-align: center;
+
+    }
+
+   label input { 
+display: none;
+visibility: hidden;
+-webkit-appearance: none;
+
+    }
+
+  .toggle {
+position: absolute;
+height: 35px;
+width: 35px;
+top: 20px;
+left: 15px;
+z-index: 1;
+cursor: pointer;
+border-radius: 2px;
+background-color: #ca8c1a;
+background: none;
+
+
+  }
+
+  
+.toggle .line4{
+ position: absolute;
+ height: 3px;
+ width: 30px;
+ background-color: white;
+ border-radius: 50px;
+ transition: 0.3s ease;
+
+
+}
+
+.toggle .line5{
+    position: absolute;
+    height: 3px;
+    width: 30px;
+    background-color: white;
+    border-radius: 50px;
+    transition: 0.3s ease;
+   
+   
+   }
+
+   .toggle .line6{
+    position: absolute;
+    height: 3px;
+    width: 30px;
+    background-color: white;
+    border-radius: 50px;
+    transition: 0.3s ease;
+   
+   
+   }
+
+.toggle .line4 {
+top: 30%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+.toggle .line5 {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    }
+
+    .toggle .line6 {
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        
+        }
+
+
+      input:checked  ~ .toggle .line4 {
+        left: 2px;
+        top: 14px;
+        width: 25px;
+        transform: rotate(45deg);
+
+
+      }
+
+      
+      input:checked  ~ .toggle .line5 {
+        opacity: 0;
+        transform: rotate(20deg);
+
+
+      }
+
+      
+      input:checked  ~ .toggle .line6 {
+        left: 2px;
+        top: 14px;
+        width: 25px;
+        transform: rotate(-45deg);
+
+
+      }
+
+
+      input:checked  ~ .slide {
+transform: translate(0);
+box-shadow: 0 0 15px rgba(0, 0, 0, 0.5s);
+
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+.cab img {
+    width: 140px;
+    height: 70px;
+    justify-content: center;
+    
+
+}
+
+.cab input {
+    font-size: px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cate {
+    background-color: #ca8c1a;
+    height: 5vh;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: ;
+    
+
+}
+
+
+.cate h1 {
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mais {
+background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+height: 12vh;
+padding: 35px;
+align-items: center;
+display: flex;
+justify-content: end;
+background: none;
+margin-top: 35px;
+
+
+
+}
+
+.mais a{
+    background-color: #ca8c1a;
+    padding: 25px;
+    border-radius: 23px;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    
+
+
+}
+
+ legend:hover a {
+ background-color: #7c6334;
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+.menos {
+    background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));;
+    height: vh;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: end;
+    background: none;
+    margin-top: px;
+    
+    
+    
+    }
+    
+    .menos a{
+        background-color: #ca8c1a;
+        padding: 25px;
+        border-radius: 23px;
+        font-size: 18px;
+        text-decoration: none;
+        color: white;
+        
+    
+    
+    }
+    
+     legend:hover a {
+     background-color: #7c6334;
+     
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
