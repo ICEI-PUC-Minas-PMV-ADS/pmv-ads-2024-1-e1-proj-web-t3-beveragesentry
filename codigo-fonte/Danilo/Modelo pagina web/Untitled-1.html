@@ -3,27 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recuperaçao senha</title>
-    <link rel="stylesheet" href="style.css">
+    <title>CRUD usando localStorage</title>
+    <link  rel="stylesheet" href="geral.css">
+    <script defer src="geral.js"></script>
 
 </head>
 <body>
-    <header>
-            <h3>Sobre</h3>
-            <h3>Telefone</h3>
-            <h3>Login</h3>
+    <div class="conteiner">
+        <div class="conteiner1">
+            <h1><strong> Adicionar Estoque</strong></h1>
+            <input type="text" id="searchInput" placeholder="Buscar Item">
+            <form id="itemForm">
+                <br>
+                <input type="text" id="itemName" placeholder="Nome do Item" required>
+              <br><br>
+                <input type="number" id="itemQuantity" placeholder="Quantidade" required>
+             <br><br>
+                <input type="date" id="itemExpiry" placeholder="Validade" required>
         
-    </header>
-    <div>
-        <h1>Recuperar senha</h1>
-        <h4>Email de Recuperação:</h4>
-        <input type="text" placeholder="Email">
-        <br> <br>
-        <button>Enviar</button>
+        
+                <div class="btnenvia">
+                    <button type="submit">Adicionar Item</button>
+                </div>
+            </form>
+        <br>
+            <ul id="itemList"></ul>
+
     </div>
-    <footer>
-        <p> Copyright © 2024 - Todos os Direitos Reservados.</p>
-    </footer>
+
+    
     
 </body>
 </html>
