@@ -26,7 +26,7 @@ Responsável: Wenderson
 
 Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/6870fee4-1d57-4217-a1ae-8d1a3af5294d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3d8f8fe8-7f0b-4e8c-96dd-84e8f95049e2)
 
 
 #### Requisito atendido
