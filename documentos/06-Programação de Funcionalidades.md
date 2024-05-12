@@ -43,6 +43,7 @@ Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
 <img width="957" alt="print estoque" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/dbebe4af-09ca-43ee-b93c-0af6f9efc371">
 
 Estrutura de Dados:
+
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
 
