@@ -1,3 +1,4 @@
+script.js
 const itemForm = document.getElementById('itemForm');
         const itemNameInput = document.getElementById('itemName');
         const itemQuantityInput = document.getElementById('itemQuantity');
