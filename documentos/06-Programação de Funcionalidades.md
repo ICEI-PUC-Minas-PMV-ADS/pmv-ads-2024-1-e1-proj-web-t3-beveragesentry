@@ -10,7 +10,7 @@ Requisito funcional: RF-09	A aplicação deve oferecer uma funcionalidade de fil
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/59624cd5-f469-4924-ac48-c002d0f614d3)
 
 
-#### Funcionalidade deve criar alertas referente as datas de vencimento.
+### Funcionalidade deve criar alertas referente as datas de vencimento.
 
 Responsável: Gustavo
 
