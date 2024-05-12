@@ -37,7 +37,7 @@ Responsável: Danillo
 
 Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo#:~:text=Migalhas%20de%20p%C3%A3o-,pmv%2Dads%2D2024%2D1%2De1%2Dproj%2Dweb%2Dt3%2Dbeveragesentry,/,-A%C3%A7%C3%B5es%20de%20diret%C3%B3rio
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
 
 Estrutura de Dados:
