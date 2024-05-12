@@ -18,6 +18,7 @@ Requisito funcional:  RF-10 A aplicação deve criar alertas para produtos com d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/329db9e3-41e3-4b76-ac27-66477ab4c0cd)
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Gustavo
 
 ### Funcionalidade deve ser capaz de alertar nível baixo de estoque
 
