@@ -10,7 +10,6 @@ Requisito funcional: RF-09	A aplicação deve oferecer uma funcionalidade de fil
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/59624cd5-f469-4924-ac48-c002d0f614d3)
 
 
-
 #### Funcionalidade deve criar alertas referente as datas de vencimento.
 
 Responsável: Gustavo
@@ -27,6 +26,12 @@ Responsável: Wenderson
 Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3d8f8fe8-7f0b-4e8c-96dd-84e8f95049e2)
+
+
+Responsável: Danillo
+
+Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
+<img width="957" alt="print estoque" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/94cbb336-9559-4516-837f-185b828ef919">
 
 
 #### Requisito atendido
