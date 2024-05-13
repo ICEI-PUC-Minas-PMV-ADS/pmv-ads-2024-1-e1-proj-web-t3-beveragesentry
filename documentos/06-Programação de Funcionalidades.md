@@ -36,11 +36,13 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Danillo
 
+
+<img width="947" alt="imagem print" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/b429e029-316f-46eb-88ae-42b6a2c700fe">
+
 Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
 
 
 
-<img width="957" alt="print estoque" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/dbebe4af-09ca-43ee-b93c-0af6f9efc371">
 
 Estrutura de Dados:
 
