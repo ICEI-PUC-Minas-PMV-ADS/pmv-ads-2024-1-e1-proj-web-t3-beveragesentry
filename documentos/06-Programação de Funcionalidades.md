@@ -42,7 +42,14 @@ Responsável: Danillo
 Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
 
 
+###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
 
+Responsável: Paulo
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/8d54ff57-66b3-41e9-aa35-48fd1416ef9f)
+
+
+Requisito funcional: A aplicaçao ser responsavel por registrar entrada de mercadoria.
 
 Estrutura de Dados:
 
