@@ -1,28 +1,53 @@
 # Programação de Funcionalidades
 
-### Homepage
+### Funcionalidade filtrar itens
 
-Responsável:jaimir
+Responsável: Jaimir
 
-Será a tela que o usuário verá ao início do processo, onde o mesmo conseguira ir até a tela de login, saber mais sobre as funcionalidades do produto e efeteuar contato com a empresa que efetua a venda desse software.
-tela utiliza HTML E CSS.
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/ff10c64e-97ae-461f-873c-32fa04a85be3)
+Requisito funcional: RF-09	A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque.	
 
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/59624cd5-f469-4924-ac48-c002d0f614d3)
 
-#### Requisito atendido
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Jaimir
 
-A tela apresenta responsividade ao passar o mause nos botões do canto superior direito, alterando a cor graduamente.
+### Funcionalidade deve criar alertas referente as datas de vencimento.
+
+Responsável: Gustavo
+
+Requisito funcional:  RF-10 A aplicação deve criar alertas para produtos com data de vencimento próxima.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/329db9e3-41e3-4b76-ac27-66477ab4c0cd)
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Gustavo
+
+### Funcionalidade deve ser capaz de alertar nível baixo de estoque
+
+Responsável: Wenderson
+
+Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3d8f8fe8-7f0b-4e8c-96dd-84e8f95049e2)
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson
 
 
-### Tela de Nova Senha
+###  Funcionalidade deve ser capaz de adicionar itens no estoque.
 
-Responsável: Paulo
+Responsável: Danillo
 
-O acesso a tela de Nova Senha poderá ser feito através da opção de menu “Recuperar Senha”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4b0b9be9-c748-4010-acb2-6dacd7a3ac31)
+<img width="947" alt="imagem print" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/b429e029-316f-46eb-88ae-42b6a2c700fe">
+
+Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
+
+
+
+
+Estrutura de Dados:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
+
 
 
 
