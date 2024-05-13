@@ -48,6 +48,9 @@ Responsável: Paulo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/8d54ff57-66b3-41e9-aa35-48fd1416ef9f)
 
+Codigo fonte: 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Paulo%20Leonardo
 
 Requisito funcional: A aplicaçao ser responsavel por registrar entrada de mercadoria.
 
