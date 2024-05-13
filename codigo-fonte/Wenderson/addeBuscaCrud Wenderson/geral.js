@@ -105,8 +105,9 @@ const itemForm = document.getElementById('itemForm');
                 itemExpiryInput.value = '';
             }
         });
-
+       
         // Event listener para filtrar os itens quando o texto da pesquisa é alterado
+
         searchInput.addEventListener('input', renderItems);
 
         // Renderiza os itens quando a página carrega
