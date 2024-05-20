@@ -1,3 +1,4 @@
+
 h1{
     color: white;
     font-size: 50px;
@@ -21,6 +22,7 @@ button{
     cursor: pointer;
     outline: none;
     font-size: 15px;
+    
 
 }
 
@@ -80,15 +82,32 @@ input{
     background-color: #770707;
     height: 100px;
     width: 1px;
+    background-color: #030303;
     
 }
 
 #itemList{
-    display: flex;
+    
     list-style: none;
-    align-items:end;
     justify-content:space-between;
-    color: aliceblue;
-
-    height: 70px;
+    color: rgb(252, 254, 255);
+    
    
+}
+
+span{
+    
+   display: flex;
+   
+}
+
+.srry{
+   
+    
+}
+
+.srry:hover{
+    
+}
+
+

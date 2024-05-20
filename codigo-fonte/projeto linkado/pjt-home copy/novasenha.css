@@ -19,7 +19,7 @@ input{
     font-size: 15px;
 }
 button{
-    background-color: rgb(9, 117, 153);
+    background-color: rgb(235, 159, 18);
     cursor: pointer;
     border: none;
     padding: 15px;
@@ -29,7 +29,7 @@ button{
     font-size: 15px;  
 } 
 button:hover{
-    background-color: deepskyblue;
+    background-color: rgb(69, 82, 87);
     cursor: pointer;    
 
 }
