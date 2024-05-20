@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <title>Produtos/Refrigerante</title>
+    <title>PRODUTOS/REFRIGERANTE</title>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
 
 <style>
 
@@ -20,63 +21,53 @@
 
 <body>
 
-  <!----------------------barra de menu --------------------------------->
-  <label>
-    <div class="dominio-menu"></div>
-   
-    <input type="checkbox">
-    <div class="toggle">
-     <span class="line4 common"></span>
-     <span class="line5 common"></span>
-     <span class="line6 common"></span>
+     <!----------------------barra de menu --------------------------------->
+    <label>
+      <div class="dominio-menu"></div>
+     
+      <input type="checkbox">
+      <div class="toggle">
+       <span class="line4 common"></span>
+       <span class="line5 common"></span>
+       <span class="line6 common"></span>
 
-    </div>
+      </div>
 
-    <div class="slide">
-     <h1>MENU</h1>
-       <ul>
-         <a href="#"><i class="fas1">INICIO</i></a>
-         <a href="#"><i class="fas2">RELATÓRIOS</i></a>
-         <a href="#"><i class="fas3">ESTOQUE</i></a>
-         <a href="#"><i class="fas4">GERENCIAR USUÁRIOS</i></a>
+      <div class="slide">
+       <h1>MENU</h1>
+         <ul>
+           <a href="#"><i class="fas1">INICIO</i></a>
+           <a href="#"><i class="fas2">RELATÓRIOS</i></a>
+           <a href="#"><i class="fas3">ESTOQUE</i></a>
+           <a href="#"><i class="fas4">GERENCIAR USUÁRIOS</i></a>
 
 
-     </ul>
-    </div>
+       </ul>
+      </div>
+    
+  </div>
   </label>
-</div>
 
-<!--------------barra de pesquisa - menu ------------------->
-<div class="cab">
-<br><br>
-
-<img src="img/logo1.jpg">
-
-   <div class="caixa-pesquisa">
-     <div class="pesquisa">
-        <input class="nem" placeholder="Pesquisar..."/>
-        <a href=""><i class="fa fa-search" id="teste"></i></a>
-
-
-        
-
-
+  <!--------------barra de pesquisa - menu ------------------->
+  <div class="cab">
+    <br><br>
+    <img src="img/logo1.jpg">
+    <div class="caixa-pesquisa">
+        <div class="pesquisa">
+            <input type="text" class="nem" id="termoBusca" placeholder="Pesquisar..."/>
+            <a href="#" onclick="buscarItem()"><i class="fa fa-search" id="teste"></i></a>
+        </div>
     </div>
-
-
- </div>
-
-
- <br><br>
+    <br><br>
 </div>
 
 
-
-<!---------------TITULO DA PAGINA----------------->
+  
+ <!---------------TITULO DA PAGINA----------------->
 
 <div class="cate">
-<br>
-<h1>REFRIGERANTES</h1>
+  <br>
+<h1>REFRIGERANTE</h1>
 
 
 </div>
@@ -84,7 +75,9 @@
 <!---------------CADASTRAR CATEGORIA DE PRODUTO--------------------------->
 
 <div class="mais">
-<legend><a href="">NOVO ITEM</a></legend>
+
+
+<legend><a href="">CADASTRAR ITEM</a></legend>
 
 <div class="menos">
   <legend><a href="">EXCLUIR ITEM</a></legend>
@@ -93,6 +86,7 @@
   </div>
 
 
+
 </div>
 
 
@@ -100,125 +94,183 @@
 
 
 
-<!---------------PRODUTOS------------------------>
-
-
-
+  
+  <!------------imagens categoria----------->
    
-   <br> <br>
+  
+  
+  <div class="conteiner1">
 
-    <div class="conteiner1">
+
+          
+     <div class="card1">
+        <div class="titulo">
+          <h1 class="nombre">Coca Cola 2 Litros</h1>
+          <img src="img/cocacola2litros.jpg">
+           </div>
+         <div class="teste">
+            <a href="#" class="bnt">...</a>
+            </div>
+          </div>
+          
+          
+
+    <div class="card1">
+
+            <h1 class="nombre">Coca Cola 500Ml</h1>
+            <img src="img/cocacolalata500ml.jpg">
+      
+            <div class="teste">          
+                <a href="" class="bnt">...</a>
+      
+                      </div>
+                  
+                      
+                  </div>
+
+
+
+    <div class="card1">
+
+        <div class="titulo"> 
+         <h1 class="nombre">Fanta Laranja 2 Litros</h1>
+         <img src="img/fantalaranja2litros.jpg">
+       </div>
+
+          <div class="teste">            
+             <a href="" class="bnt">...</a>
+
+                   </div>
+               
+
+               </div>    
+               
+              
+               
+               
+
+
+      <div class="card1" >
+
+         <div class="titulo"> 
+          <h1 class="nombre">Fanta Uva 2 Litros</h1>
+          <img src="img/fantauva2litros.jpg">
+        </div>
+
+           <div class="teste">            
+              <a href="" class="bnt">...</a>
+
+                    </div>
+                
+
+                </div>
+
+
+
+
        <div class="card1">
-         <h2> Coca Cola 2 Litros</h2>
-        <img src="img/coca2litros.png">
-        <div class="conteudo-card1">            
-              <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
+
+         <div class="titulo"> 
+          <h1 class="nombre">Guaraná Antárctica 2 Litros</h1>
+          <img src="img/guaranaantarctica2litros.jpg">
         </div>
 
-     </div>
+           <div class="teste">            
+              <a href="" class="bnt">...</a>
 
-     <div class="card1">
-      <h2>Coca Cola 500Ml</h2>
-        <img src="img/cocacolalata500ml.jpg">
-        <div class="conteudo-card1">            
-              <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
+                    </div>
+                
 
-     </div>
-
+                </div>     
+                
+                
+    
 
 
+                
+      <div class="card1">
 
-     <div class="card1">
-      <h2>Fanta Laranja 2 Litros</h2>
-        <img src="img/fantalaranja2litros.jpg">
-        <div class="conteudo-card1">            
-              <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
-
-     </div>
-
-
-
-     <div class="card1">
-      <h2>Fanta Uva 2 Litros</h2>
-        <img src="img/fantauva2litros.jpg">
-        <div class="conteudo-card1">
-                          <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
-
-     </div>
-
-
-
-
-     <div class="card1">
-      <h2>Guaraná Antárctica 2 Litros</h2>
-        <img src="img/guaranaantarctica2litros.jpg">
-        <div class="conteudo-card1">
-                          <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
-
-     </div>
-
-
-
-     <div class="card1">
-      <h2>Pepsi 2 Litros</h2>
+        <h1 class="nombre">Pepsi 2 Litros</h1>
         <img src="img/pepsi2litros.jpg">
-        <div class="conteudo-card1">
-                          <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
 
-     </div>
+        <div class="teste">
+            <a href="" class="bnt">...</a>
+
+                  </div>
+              
+                  
+              </div>
 
 
      
+      <div class="card1">
 
-     <div class="card1">
-      <h2>Pepsi 500ML</h2>
-        <img src="img/pepsi500ml.jpg">
-        <div class="conteudo-card1">
-                          <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
+          <h1 class="nombre">Pepsi 500ML</h1>
+          <img src="img/pepsi500ml.jpg">
 
-     </div>
+          <div class="teste">            
+              <a href="" class="bnt">...</a>
+
+                    </div>
+                
+                    
+                </div>
 
 
 
+              
+      <div class="card1">
 
-     <div class="card1">
-      <h2>Sprit 2 Litros</h2>
+        <h1 class="nombre">Sprit 2 Litros</h1>
         <img src="img/sprit2litros.jpg">
-        <div class="conteudo-card1">
-                          <p>Refrigerante</p>
-               <a href="" class="bnt">teste</a>
-        </div>
 
-     </div>
+        <div class="teste">          
+            <a href="" class="bnt">...</a>
+
+                  </div>
+              
+                  
+              </div>
 
 
-
-
+      
+   </div>
     
 
+   </div>
 
-   <br><br><br><br>
+   <!-----------------FIM HTML---------------------------->
 
-
+   <script>
     
 
+    function buscarItem() {
+       
+        var termo = document.getElementById('termoBusca').value.toLowerCase();
+        
+        
+        var cards = document.querySelectorAll('.card1');
 
+       
+        cards.forEach(function(card) {
+            var nomeProduto = card.querySelector('.nombre').textContent.toLowerCase();
+            if (nomeProduto.startsWith(termo)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
 
+    
+    document.getElementById('termoBusca').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); 
+            buscarItem(); 
+        }
+    });
 
-    </div>
+</script>
     
 </body>
 </html>
