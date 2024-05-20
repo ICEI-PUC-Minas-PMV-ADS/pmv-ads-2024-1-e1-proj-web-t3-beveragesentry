@@ -41,28 +41,17 @@
   </label>
 
   <!--------------barra de pesquisa - menu ------------------->
-<div class="cab">
-  <br><br>
-
-  <img src="img/logo1.jpg">
-
-     <div class="caixa-pesquisa">
-       <div class="pesquisa">
-          <input class="nem" placeholder="Pesquisar..."/>
-          <a href=""><i class="fa fa-search" id="teste"></i></a>
-
-
-          
-
-
-      </div>
-
-
-   </div>
-
-  
-   <br><br>
-  </div>
+  <div class="cab">
+    <br><br>
+    <img src="img/logo1.jpg">
+    <div class="caixa-pesquisa">
+        <div class="pesquisa">
+            <input type="text" class="nem" id="termoBusca" placeholder="Pesquisar..."/>
+            <a href="#" onclick="buscarItem()"><i class="fa fa-search" id="teste"></i></a>
+        </div>
+    </div>
+    <br><br>
+</div>
 
 
   
@@ -116,25 +105,22 @@
             </div>
 
 
-
-   <div class="card1">
-           
-        <div class="titulo"> 
-          <h1 class="nombre">CERVEJA</h1>
-          <img src="img/imagcervejas.jpg">
-        </div>
-
-           <div class="teste">
-             <a href="" class="bnt">PRODUTOS</a>
-
-                    </div>
+            <div class="conteiner2">
+              <div class="card1" onclick="redirecionarParaCerveja()">
                 
-                    
-                </div>
+                  <div class="titulo">
+                      <h1 class="nombre">CERVEJA</h1>
+                      <img src="img/imagcervejas.jpg">
+                  </div>
+                  <div class="teste">
+                      <a href="#" class="bnt">PRODUTOS</a>
+                  </div>
+              </div>
+          </div>
+          
 
 
-
-
+    
     <div class="card1">
 
         <div class="titulo"> 
@@ -153,7 +139,7 @@
                
 
 
-      <div class="card1">
+      <div class="card1" >
 
          <div class="titulo"> 
           <h1 class="nombre">REFRIGERANTE</h1>
@@ -238,16 +224,48 @@
 
       
    </div>
-
-
-  <!-------parte 2------>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-   <div>
-    <button>VOLTAR</button>
     
 
    </div>
+
+   <!-----------------FIM HTML ---------------------------->
+
+
+   <!--------DIRECIONAMENTO PARA OS ITENS-------->
+   <script>
+    function redirecionarParaCerveja() {
+        window.location.href = 'http://127.0.0.1:5500/Tela%20Cerveja/index.html';
+    }
+
+
+
+    function buscarItem() {
+        
+        var termo = document.getElementById('termoBusca').value.toLowerCase();
+        
+        
+        var cards = document.querySelectorAll('.card1');
+
+        
+        cards.forEach(function(card) {
+            var nomeProduto = card.querySelector('.nombre').textContent.toLowerCase();
+            if (nomeProduto.startsWith(termo)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+
+    
+    document.getElementById('termoBusca').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); 
+            buscarItem(); 
+        }
+    });
+
+</script>
     
 </body>
 </html>
