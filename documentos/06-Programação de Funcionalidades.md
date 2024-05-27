@@ -61,6 +61,15 @@ Estrutura de Dados:
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
 
+### Funcionalidade registrar desempenho de vendas por tipo de produto
+
+Responsável: Jaimir
+
+Requisito funcional: RF-03	A aplicação ser capaz de registrar indicativo de desempenho de vendas por tipo de produto.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/6569e21c-fb20-4173-8f72-3b0252795b56)
+
+Codigo fonte:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Jaimir
 
 
 
