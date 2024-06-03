@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-|Caso de Teste    | CT-2 - Vendas por produto |
+|Caso de Teste    | CT-2 - Registrar indicativo de desempenho de vendas por tipo de produto. |
 |:---|:---|
 | Requisitos Associados | RF-03 |
 | Objetivo do Teste | A aplicação ser capaz de registrar indicativo de desempenho de vendas por tipo de produto. |
