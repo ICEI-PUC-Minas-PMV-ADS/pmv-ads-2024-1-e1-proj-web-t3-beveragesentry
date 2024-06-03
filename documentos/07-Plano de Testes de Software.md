@@ -36,6 +36,17 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
+|Caso de Teste    | CT-2 - Alerta de produto que não tem saída/produto parado |
+|:---|:---|
+| Requisitos Associados | RF-07 |
+| Objetivo do Teste | A aplicação deve gerar alerta quando o produto fica parado por um determinado tempo sem registrar saída |
+| Passos | Deve-se acessar a aba com aplicação de adicionar e remover produto, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item.   |
+| Critérios de êxito | Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos.  |
+| Responsável pela elaborar do caso de Teste | Wenderson |
+
+
+
+
 
  
 > **Links Úteis**:
