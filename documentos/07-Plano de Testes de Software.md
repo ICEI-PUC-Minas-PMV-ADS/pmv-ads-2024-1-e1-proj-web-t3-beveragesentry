@@ -40,10 +40,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-07 |
 | Objetivo do Teste | A aplicação deve gerar alerta quando o produto fica parado por um determinado tempo sem registrar saída |
-| Passos | 1 - Deve-se acessar a aba com aplicação de adicionar e remover produto, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item. 
-2 - Também é deverá ser realizado a atualização da página onde se adiciona e remove produto para que seja gerado um alerta dos produtos que estão parados no estoque.   |
-| Critérios de êxito | 1 - Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos.
-2 - Ao recarregar a página onde se adiciona o remove os itens do estoque deve-se observar se será gerado o alerta dos produtos que estão parados há mais de 1 minuto.|
+| Passos | 1 - Deve-se acessar a aba com aplicação de adicionar e remover produto, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item. 2 - Também é deverá ser realizado a atualização da página onde se adiciona e remove produto para que seja gerado um alerta dos produtos que estão parados no estoque.   |
+| Critérios de êxito | 1 - Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos. 2 - Ao recarregar a página onde se adiciona o remove os itens do estoque deve-se observar se será gerado o alerta dos produtos que estão parados há mais de 1 minuto.|
 | Responsável pela elaborar do caso de Teste | Wenderson |
 
 
