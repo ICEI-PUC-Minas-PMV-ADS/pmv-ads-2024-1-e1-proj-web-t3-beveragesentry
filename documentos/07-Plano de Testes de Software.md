@@ -17,7 +17,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-1 - Filtro de pesquisa |
 |:---|:---|
 | Requisitos Associados | RF-09 |
-| Filtro/Pesquisa | A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque. |
+|  Objetivo do Teste | A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque. |
 | Passos |1. Acessar o navegador&nbsp; &nbsp;2. Informar o endereço do site.&nbsp; &nbsp;3. Visualizar a página home.&nbsp;  &nbsp;4. Fazer login.&nbsp;  &nbsp;5. Clicar na página de estoque.&nbsp;  &nbsp;6. Digitar no filtro o item desejado registrado anteriormente no localstorage.|
 | Critérios de êxito | Após digitar no filtro o nome do item, o mesmo deve aparecer em primeiro na tela do usuário.  |
 | Responsável pela elaborar do caso de Teste | Jaimir |
