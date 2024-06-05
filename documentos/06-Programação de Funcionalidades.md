@@ -43,6 +43,7 @@ Responsável: Danillo
 
 Requisito funcional: A aplicaçao ser responsavel por cadastrar novos itens no estoque.
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
 ###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
 
@@ -58,7 +59,7 @@ Requisito funcional: A aplicaçao ser responsavel por registrar entrada de merca
 
 Estrutura de Dados:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
+
 
 
 ### Funcionalidade registrar desempenho de vendas por tipo de produto
@@ -100,9 +101,4 @@ Codigo fonte:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-we
 
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
