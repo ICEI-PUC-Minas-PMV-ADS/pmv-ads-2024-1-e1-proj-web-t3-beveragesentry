@@ -34,14 +34,14 @@ Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoq
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson
 
 
-###  Funcionalidade deve ser capaz de adicionar itens no estoque.
+###  Funcionalidade deve ser capaz de cadastrar itens no estoque.
 
 Responsável: Danillo
 
 
 <img width="947" alt="imagem print" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/b429e029-316f-46eb-88ae-42b6a2c700fe">
 
-Requisito funcional: A aplicaçao ser responsavel de adicionar itens no estoque.
+Requisito funcional: A aplicaçao ser responsavel por cadastrar novos itens no estoque.
 
 
 ###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
