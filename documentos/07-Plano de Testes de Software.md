@@ -46,6 +46,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
+|Caso de Teste    | CT-3- Verificar a saída de produtos do estoque |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | A aplicação ser capaz de registrar a saída de mercadorias do Estoque |
+| Passos | Preencher os campos de Data, selecionar um produto cadastrado no estoque, escolher a quantidade do produto, preencher o campo de valor do produto , adicionar vendas. No final a aplicaçao deve ser capaz de gerar o valor total da venda e dar baixa no estoque. |
+| Critérios de êxito | Após realizar as etapas de preenchimento dos campos e adicionar venda a aplicaçao dar baixa dos produtos vendidos no localstorage. |
+| Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
+
+
 
 
  
