@@ -36,7 +36,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-|Caso de Teste    | CT-2 - Alerta de produto que não tem saída/produto parado |
+|Caso de Teste    | CT-3 - Alerta de produto que não tem saída/produto parado |
 |:---|:---|
 | Requisitos Associados | RF-07 |
 | Objetivo do Teste | A aplicação deve gerar alerta quando o produto fica parado por um determinado tempo sem registrar saída |
@@ -46,7 +46,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-|Caso de Teste    | CT-3- Verificar a saída de produtos do estoque |
+|Caso de Teste    | CT-4- Verificar a saída de produtos do estoque |
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | A aplicação ser capaz de registrar a saída de mercadorias do Estoque |
@@ -55,7 +55,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
 
 
-
+|Caso de Teste    | CT-5- Alertar vendas mensais que cada funcionário realizou |
+|:---|:---|
+| Requisitos Associados | RF- 11 |
+| Objetivo do Teste | A aplicação ser capaz de alertar quantas vendas mensais cada funcionário realizou |
+| Passos | Selecionar um colaborador cadastrado na empresa, escolher o ano de pesquisa, clicar em emitir relatório. No final a aplicaçao deve ser capaz de gerar um relatório com todos os valores mensais realizados durante o ano selecionado. |
+| Critérios de êxito | Após realizar as etapas de preenchimento dos campos a aplicaçao emitirá em relatório representado por um grafico no mesmo instante que o usuário clicar em emitir relatório. |
+| Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
 
  
 > **Links Úteis**:
