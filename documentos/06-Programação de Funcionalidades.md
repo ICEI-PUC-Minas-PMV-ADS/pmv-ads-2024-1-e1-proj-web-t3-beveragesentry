@@ -34,6 +34,8 @@ Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoq
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson
 
 
+
+
 ###  Funcionalidade deve ser capaz de cadastrar itens no estoque.
 
 Responsável: Danillo
@@ -43,9 +45,9 @@ Responsável: Danillo
 
 Requisito funcional: A aplicaçao ser responsável por cadastrar novos itens no estoque.
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
+Código Fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
-###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
+ ###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
 
 
 Responsável: Paulo
@@ -75,7 +77,20 @@ Codigo fonte:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-we
 
 
 
+
+###  Funcionalidade deve ser capaz de registrar a saída de mercadorias
+
+Responsável: Danillo
+
+<img width="959" alt="print tela vendas" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/4cfcf2e4-5167-454b-825e-5b2990febf29">
+
+
+Requisito Funcional: RF-02 A aplicação deve ser capaz de registrar a saída de mercadorias.
+
+Código Fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
+
 #### Requisito atendido
+
 
 [RF-X: adicione a descrição do requisito atendido]
 
