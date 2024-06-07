@@ -68,7 +68,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-12 |
 | Objetivo do Teste | Avaliar se o sistema esta funcionando de acordo com o objetivo de cadastrar e excluir itens do estoque no localstorage, que os campos sejam preenchidos e os botões funcionem.  |
-| Passos | Preencher o campo selecionando o tipo de produto, a categoria qual pertence, cadastrar o preço e preencher a data de validade do produto. |
+| Passos | Preencher o campo selecionando o tipo de produto, a categoria qual pertence, cadastrar o preço e preencher a data de validade do produto. Utilizar os botões salvar para adicionar produtos, botão limpar para editar e botão excluir para remover produtos.|
 | Critérios de êxito | O sistema responder aos comandos de execução ao ser adicionado e excluido produtos do localstorage, integração com o localstorage.  |
 | Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
  
