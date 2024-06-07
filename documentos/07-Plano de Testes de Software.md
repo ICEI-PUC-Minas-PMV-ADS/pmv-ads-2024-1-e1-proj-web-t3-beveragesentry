@@ -64,7 +64,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
 
 
-A aplicação deve ser capaz de cadastrar e excluir itens do estoque.
 |Caso de Teste    | CT-6- Avaliar o cadastro e exclusão de itens no estoque |
 |:---|:---|
 | Requisitos Associados | RF-12 |
