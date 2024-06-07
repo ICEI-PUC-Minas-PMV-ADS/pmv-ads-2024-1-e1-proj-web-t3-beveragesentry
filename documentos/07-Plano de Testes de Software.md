@@ -30,7 +30,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Requisitos Associados | RF-03 |
 | Objetivo do Teste | A aplicação ser capaz de registrar indicativo de desempenho de vendas por tipo de produto. |
 | Passos |1. Acessar o navegador.&nbsp;&nbsp;2. Informar o endereço do site.&nbsp;&nbsp;3. Visualizar a página home.&nbsp;&nbsp;4. Clicar em vendas.&nbsp;&nbsp;5. Digitar o número de vendas realizada do produto desejado e clicar em registrar venda.|
-| Critérios de êxito | Após informar a quantidade do itens vendido, o sistema deverá começar a somar a quantidade de itens vendidos por tipo de produto. |
+| Critérios de êxito | Após informar a quantidade de itens vendidos, o sistema deverá começar a somar a quantidade de itens vendidos por tipo de produto, atualizando o localstorage e mostrando um grafico com a quantidade de cada item vendido. |
 | Responsável pela elaborar do caso de Teste | Jaimir |
 
 
