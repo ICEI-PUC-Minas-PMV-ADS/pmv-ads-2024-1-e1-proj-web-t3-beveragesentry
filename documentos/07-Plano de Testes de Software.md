@@ -11,6 +11,58 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Indicar passos para a execução do teste |
 | Critérios de êxito | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+
+
+
+|Caso de Teste    | CT-1 - Filtro de pesquisa |
+|:---|:---|
+| Requisitos Associados | RF-09 |
+|  Objetivo do Teste | A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque. |
+| Passos |1. Acessar o navegador&nbsp; &nbsp;2. Informar o endereço do site.&nbsp; &nbsp;3. Visualizar a página home.&nbsp;  &nbsp;4. Fazer login.&nbsp;  &nbsp;5. Clicar na página de estoque.&nbsp;  &nbsp;6. Digitar no filtro o item desejado registrado anteriormente no localstorage.|
+| Critérios de êxito | Após digitar no filtro o nome do item, o mesmo deve aparecer em primeiro na tela do usuário.  |
+| Responsável pela elaborar do caso de Teste | Jaimir |
+
+
+
+
+|Caso de Teste    | CT-2 - Registrar indicativo de desempenho de vendas por tipo de produto. |
+|:---|:---|
+| Requisitos Associados | RF-03 |
+| Objetivo do Teste | A aplicação ser capaz de registrar indicativo de desempenho de vendas por tipo de produto. |
+| Passos |1. Acessar o navegador.&nbsp;&nbsp;2. Informar o endereço do site.&nbsp;&nbsp;3. Visualizar a página home.&nbsp;&nbsp;4. Clicar em vendas.&nbsp;&nbsp;5. Digitar o número de vendas realizada do produto desejado e clicar em registrar venda.|
+| Critérios de êxito | Após informar a quantidade de itens vendidos, o sistema deverá começar a somar a quantidade de itens vendidos por tipo de produto, atualizando o localstorage e mostrando um grafico com a quantidade de cada item vendido. |
+| Responsável pela elaborar do caso de Teste | Jaimir |
+
+
+
+
+|Caso de Teste    | CT-3 - Alerta de produto que não tem saída/produto parado |
+|:---|:---|
+| Requisitos Associados | RF-07 |
+| Objetivo do Teste | A aplicação deve gerar alerta quando o produto fica parado por um determinado tempo sem registrar saída |
+| Passos | 1 - Deve-se acessar a aba com aplicação de adicionar e remover produto, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item. 2 - Também é deverá ser realizado a atualização da página onde se adiciona e remove produto para que seja gerado um alerta dos produtos que estão parados no estoque.   |
+| Critérios de êxito | 1 - Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos. 2 - Ao recarregar a página onde se adiciona o remove os itens do estoque deve-se observar se será gerado o alerta dos produtos que estão parados há mais de 1 minuto.|
+| Responsável pela elaborar do caso de Teste | Wenderson |
+
+
+
+|Caso de Teste    | CT-4- Verificar a saída de produtos do estoque |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | A aplicação ser capaz de registrar a saída de mercadorias do Estoque |
+| Passos | Preencher os campos de Data, selecionar um produto cadastrado no estoque, escolher a quantidade do produto, preencher o campo de valor do produto , adicionar vendas. No final a aplicaçao deve ser capaz de gerar o valor total da venda e dar baixa no estoque. |
+| Critérios de êxito | Após realizar as etapas de preenchimento dos campos e adicionar venda a aplicaçao dar baixa dos produtos vendidos no localstorage. |
+| Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
+
+
+|Caso de Teste    | CT-5- Alertar vendas mensais que cada funcionário realizou |
+|:---|:---|
+| Requisitos Associados | RF- 11 |
+| Objetivo do Teste | A aplicação ser capaz de alertar quantas vendas mensais cada funcionário realizou |
+| Passos | Selecionar um colaborador cadastrado na empresa, escolher o ano de pesquisa, clicar em emitir relatório. No final a aplicaçao deve ser capaz de gerar um relatório com todos os valores mensais realizados durante o ano selecionado. |
+| Critérios de êxito | Após realizar as etapas de preenchimento dos campos a aplicaçao emitirá em relatório representado por um grafico no mesmo instante que o usuário clicar em emitir relatório. |
+| Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
