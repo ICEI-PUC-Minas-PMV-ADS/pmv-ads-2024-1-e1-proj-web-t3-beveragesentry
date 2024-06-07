@@ -4,7 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gerador de Relatório de Vendas</title>
+<<<<<<< Updated upstream:codigo-fonte/Danilo/vendas/vendas.html
   <link rel="stylesheet" href="vendas.css">
+=======
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+>>>>>>> Stashed changes:codigo-fonte/Danilo/vendas/index.html
 </head>
 <body>
   <div class="container">
@@ -18,6 +23,8 @@
       <input type="number" id="quantity" name="quantity" min="1" required><br><br>
       <label for="price">Preço Unitário:</label>
       <input type="number" id="price" name="price" min="0.01" step="0.01" required><br><br>
+      <label for="totalPrice">Preço Total:</label>
+      <input type="text" id="totalPrice" name="totalPrice" readonly><br>
       <button type="submit">Adicionar Venda</button>
     </form>
     <hr>
