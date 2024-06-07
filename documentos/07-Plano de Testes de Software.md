@@ -63,6 +63,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Após realizar as etapas de preenchimento dos campos a aplicaçao emitirá em relatório representado por um grafico no mesmo instante que o usuário clicar em emitir relatório. |
 | Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
 
+
+A aplicação deve ser capaz de cadastrar e excluir itens do estoque.
+|Caso de Teste    | CT-6- Avaliar o cadastro e exclusão de itens no estoque |
+|:---|:---|
+| Requisitos Associados | RF-12 |
+| Objetivo do Teste | Avaliar se o sistema esta funcionando de acordo com o objetivo de cadastrar e excluir itens do estoque no localstorage, que os campos sejam preenchidos e os botões funcionem.  |
+| Passos | Preencher o campo selecionando o tipo de produto, a categoria qual pertence, cadastrar o preço e preencher a data de validade do produto. |
+| Critérios de êxito | O sistema responder aos comandos de execução ao ser adicionado e excluido produtos do localstorage, integração com o localstorage.  |
+| Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
