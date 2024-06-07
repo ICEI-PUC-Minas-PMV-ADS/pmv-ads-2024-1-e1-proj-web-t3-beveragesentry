@@ -38,14 +38,15 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Danillo
 
+<img width="953" alt="tela cadastro 2" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/2f36275f-dc91-422a-9776-917311a8dd1f">
 
-<img width="947" alt="imagem print" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/b429e029-316f-46eb-88ae-42b6a2c700fe">
 
-Requisito funcional: A aplicaçao ser responsavel por cadastrar novos itens no estoque.
+Requisito funcional: A aplicaçao ser responsável por cadastrar novos itens no estoque.
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
 ###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
+
 
 Responsável: Paulo
 
