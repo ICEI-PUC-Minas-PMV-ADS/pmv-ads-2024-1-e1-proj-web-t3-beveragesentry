@@ -94,6 +94,21 @@ Código Fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-
 #### Requisito atendido
 
 
+###  Funcionalidade deve ser capaz de emitir um relatório mensal de vendas de cada funcionário.
+Responsável: Paulo Leonardo 
+
+Requisito Funcional: RF-11 A aplicação deve ser capaz de emitir um relatório mensal de vendas de cada funcionário.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4c6afbd2-e4f8-400e-8081-da7effe39f82)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/a0e6fe48-7028-446f-9ca9-00df1aedfbdd)
+
+#### Requisito atendido
+
+
+
+
+
 [RF-X: adicione a descrição do requisito atendido]
 
 
