@@ -71,6 +71,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Preencher o campo selecionando o tipo de produto, a categoria qual pertence, cadastrar o preço e preencher a data de validade do produto. Utilizar os botões salvar para adicionar produtos, botão limpar para editar e botão excluir para remover produtos.|
 | Critérios de êxito | O sistema responder aos comandos de execução ao ser adicionado e excluido produtos do localstorage, integração com o localstorage.  |
 | Responsável pela elaborar do caso de Teste | Danillo A. F. Neves |
+
+|Caso de Teste    | CT-7- Funcionalidade deve ser capaz de registrar entrada de mercadorias. |
+|:---|:---|
+| Requisitos Associados | RF- 01 |
+| Objetivo do Teste | A aplicação ser capaz de registrar entradas de mercadorias em estoque |
+| Passos | Selecionar um item cadastrado na empresa, escolher o item de entrada, quantidade e a data, clicar em adicionar item. A aplicação enviará um alerta sobre entrada de mercadorias em estoque. |
+| Critérios de êxito | O sistema responder aos comandos de execução ao ser adicionado produtos do localstorage, integração com o localstorage.  |
+| Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
