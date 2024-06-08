@@ -16,6 +16,7 @@ productForm.addEventListener('submit', e => {
             category: category,
             validity: validity
         };
+        
 
         addProduct(product);
         saveProduct(product);
