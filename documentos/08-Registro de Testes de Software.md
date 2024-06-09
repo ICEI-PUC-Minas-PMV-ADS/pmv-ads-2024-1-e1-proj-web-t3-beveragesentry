@@ -33,3 +33,17 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <img width="941" alt="jaimir 3" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/e01a4a63-7bec-4b64-b14b-c4014814f8e2">
 <img width="947" alt="jaimir 4" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/672da383-6360-4ff3-b2e9-6a31b8adbe22">
+
+
+|Caso de Teste    | CT-3 - A funcionalidade deve ser capaz de registrar entrada de mercadorias. |
+|:---|:---|
+| Resultados obtidos | 1 -  Ao inserir os dados do produto e clicar em adicionar item, foi possível adicionar o produto produto. 2 - Ao editar também é possível adicionar mais itens no produto alterando a quantidade do produto. |
+| Responsável pela execução do caso de Teste | Wenderson | 
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e52af906-f8b5-411a-9ef3-5c09c116aa68)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/a90f89b4-cdbf-4063-8780-9f272b9f0868)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d51fdcc0-ce25-4e55-abe0-e7b79293ee4c)
+
+
+
