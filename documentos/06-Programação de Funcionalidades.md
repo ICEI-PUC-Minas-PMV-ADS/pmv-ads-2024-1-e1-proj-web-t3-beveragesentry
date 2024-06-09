@@ -118,8 +118,26 @@ Requisito Funcional - 07: A aplicação deve ser capaz de gerar alerta sobre o t
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d0cbea6f-d493-4349-a109-fc9a0970ac79)
 
 
-
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson/Alerta%20de%20produto%20parado%20no%20estoque
+
+
+
+### Funcionalidade deve alertar quantas vendas mensais cada funcionário realizou. 
+
+Responsável: Paulo
+
+Requisito Funcional - 11: A plicação deve alertar quantas vendas mensais cada funcionário realizou
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e2e1bd67-14f4-4e36-950e-726bb5e00af1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e64e5560-7f45-410d-96a0-e97bd8068a48)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/0bcf4ea1-9adf-425d-a8a5-4de0fc666db7)
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Paulo%20Leonardo/vendasmensais
+
+
+
+
 
 
 [RF-X: adicione a descrição do requisito atendido]
