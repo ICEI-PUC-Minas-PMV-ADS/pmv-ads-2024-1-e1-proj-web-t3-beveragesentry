@@ -19,11 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Registrar a venda
         registerSale(productName, quantity);
     });
 
-    // produtos do localStorage
     function populateProductOptions() {
         const items = JSON.parse(localStorage.getItem('items')) || [];
         items.forEach(item => {
@@ -33,13 +31,11 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    //atualizar o Local Storage
     function registerSale(productName, quantity) {
         let items = JSON.parse(localStorage.getItem('items')) || [];
         let updated = false;
         items = items.map(item => {
             if (item.name === productName) {
-                // Atualiza a quantidade vendida do item
                 item.sold += quantity;
                 updated = true;
             }
@@ -50,7 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
             items.push({ name: productName, sold: quantity });
         }
 
-        // Atualiza o Local Storage com os novos valores
         localStorage.setItem('items', JSON.stringify(items));
 
         alert(`Venda registrada para o produto: ${productName}, quantidade: ${quantity}`);
@@ -65,9 +60,14 @@ document.addEventListener('DOMContentLoaded', () => {
         items.forEach(item => {
             updateSalesSummary(item.name, item.sold);
         });
+
+        const salesData = items.reduce((acc, item) => {
+            acc[item.name] = item.sold;
+            return acc;
+        }, {});
+        drawChart(salesData);
     }
 
-    // Função para atualizar a lista de vendas realizadas
     function updateSalesSummary(productName, quantity) {
         let listItem = document.querySelector(`#salesList li[data-product="${productName}"]`);
         if (!listItem) {
@@ -77,4 +77,33 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         listItem.textContent = `Vendeu ${quantity} unidades de ${productName}`;
     }
+
+    function drawChart(data) {
+        const productNames = Object.keys(data);
+        const quantitiesSold = Object.values(data);
+        const ctx = document.getElementById('salesChart').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: productNames,
+                datasets: [{
+                    label: 'Quantidade Vendida',
+                    data: quantitiesSold,
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
 });
+
+
+
