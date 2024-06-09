@@ -120,6 +120,11 @@ Requisito Funcional - 07: A aplicação deve ser capaz de gerar alerta sobre o t
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson/Alerta%20de%20produto%20parado%20no%20estoque
 
+### Funcionalidade deve ser capaz de gerar relatório total de vendas.
+
+Responsável: Gustavo
+
+Requisito Funcional RF- 06 A aplicação deve gerar estimativas de valores vendidos.
 
 
 
