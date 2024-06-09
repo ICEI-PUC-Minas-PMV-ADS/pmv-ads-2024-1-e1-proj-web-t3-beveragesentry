@@ -71,10 +71,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-6 - Alerta de produto que não tem saída/produto parado |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
+| Resultados obtidos | 1 - Ao adicionar ou remover itens dos produtos foi gerado um alerta no localstorage, onde estão armazenados são armazenados os produtos, informando quais são os produtos que não registraram saída dentro do tempo determinado. 2 - Ao recarregar a página onde estão os produtos foi gerado o alerta sinalizando somente o produto que não registrou saída dentro do tempo que foi determinado. |
 | Responsável pela execução do caso de Teste | Gustavo |
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/859998ff-179c-42b4-91fb-0ea4577f5e09)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/9749484f-c369-4261-89a1-67ff49e25965)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/39625f9e-2175-4b3c-9bf2-6df87a94ed9b)
 
 
