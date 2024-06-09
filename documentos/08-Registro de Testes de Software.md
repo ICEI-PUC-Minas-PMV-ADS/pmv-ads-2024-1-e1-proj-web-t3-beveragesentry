@@ -46,4 +46,29 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d51fdcc0-ce25-4e55-abe0-e7b79293ee4c)
 
 
+|Caso de Teste    | CT-4 - A funcionalidade deve criar alertas referentes aos dados de vencimento. |
+|:---|:---|
+| Resultados obtidos | 1 -  Ao cadastrar um item com a data de vencimento dentro dos próximos 30 dias foi gerado um alerta sinalizando que o produto vencerá em 30 dias. 2 - Ao adicionar um novo produto a aplicação foi capaz de sinalizar apenas o produto que está com data de vencimento dentro da margem de risco. 3 - Ao realizar a busca do produto a aplicação foi capaz de gerar um alerta sinalizando que o produto está vencido.  |
+| Responsável pela execução do caso de Teste | Wenderson |
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/dbde6f68-d50f-4e13-b029-025d34f268d4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/9e1486e5-c5a8-4443-9692-459b6755ffbc)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/0ebd70ec-a695-4e7f-926c-f85f15437049)
+
+
+
+
+
+|Caso de Teste    | CT-5 - A funcionalidade deve ser capaz de alertar o nível de estoque baixo |
+|:---|:---|
+| Resultados obtidos | 1 - Ao iniciar uma buscas de um determinado produto foi gerado o alerta informando que o produto "Brahma" estava abaixo do nível de segurança. 2 - Ao cadastrar um novo item no estoque foi gerado o alerta somente para o produto que estava abaixo da margem de segurança dos produtos   |
+| Responsável pela execução do caso de Teste | Paulo |
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e37d0973-b795-4d7f-bd70-3f32c4f3e0a7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/695728fc-3680-4643-b2d3-a27fd86410ee)
+
+
+
+
 
