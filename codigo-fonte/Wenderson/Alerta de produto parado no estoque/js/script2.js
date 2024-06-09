@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
              atualizarQuantidades();
 
              
-             atualizarUltimaRemocao(produto);
+             atualizarUltimaRemocao(produto); 
          }
      });
  });
