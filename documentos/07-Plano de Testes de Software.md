@@ -40,8 +40,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-07 |
 | Objetivo do Teste | A aplicação deve gerar alerta quando o produto fica parado por um determinado tempo sem registrar saída |
-| Passos | 1 - Deve-se acessar a aba com aplicação de adicionar e remover produto, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item. 2 - Também é deverá ser realizado a atualização da página onde se adiciona e remove produto para que seja gerado um alerta dos produtos que estão parados no estoque.   |
-| Critérios de êxito | 1 - Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos. 2 - Ao recarregar a página onde se adiciona o remove os itens do estoque deve-se observar se será gerado o alerta dos produtos que estão parados há mais de 1 minuto.|
+| Passos | 1 - Deve-se acessar a aba com aplicação de adicionar e remover a quantidade do produtos, também é necessário abrir o localstorage onde os dados ficam armazenados, e ao adicionar ou remover itens de um determinado produto é gerado um alerta no localstorage se o produto atingir um determinado tempo parado, que neste caso para o teste em questão o alerta é gerado se o produto ficar 1 minuto sem remoção de item. 2 - Também deverá ser realizado a atualização da página onde se adiciona e remove produtos para que seja gerado um alerta dos produtos que estão parados no estoque.   |
+| Critérios de êxito | 1 - Após adicionar ou remover item de algum produto, deve-se observar se no localstorage gerou algum alerta informando quais produtos estão sem remoção há um determinado tempo e se o alerta está ocorrendo dentro do tempo estipulado e com os produtos corretos. 2 - Ao recarregar a página onde se adiciona ou remove os itens do estoque, deve-se observar se será gerado o alerta dos produtos que estão parados há mais de 1 minuto.|
 | Responsável pela elaborar do caso de Teste | Wenderson |
 
 
@@ -79,6 +79,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Selecionar um item cadastrado na empresa, escolher o item de entrada, quantidade e a data, clicar em adicionar item. A aplicação enviará um alerta sobre entrada de mercadorias em estoque. |
 | Critérios de êxito | O sistema responder aos comandos de execução ao ser adicionado produtos do localstorage, integração com o localstorage.  |
 | Responsável pela elaborar do caso de Teste | Paulo L. O. Ferreira |
+
+
+|Caso de Teste    | CT-8 - Funcionalidade deve ser capaz de alertar nível baixo de estoque |
+|:---|:---|
+| Requisitos Associados | RF-05 |
+| Objetivo do Teste | A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item. |
+| Passos | 1 - Ao pesquisar itens no estoque será gerado um alerta quando o número de itens deste estoque for menor do que 30. 2 - Ao adicionar um determinado produto e este produto tiver menos do que 30 itens no estoque, será gerado um alerta sinalizando que o produto possui menos do que 30 itens no estoque. 3 - Ao adicionar um determinado produto e este produto tiver menos do que 30 itens no estoque, será gerado um alerta sinalizando que o produto possui menos do que 30 itens no estoque. |
+| Critérios de êxito | 1 - Deve-se clicar no item de busca e confirmar se ao iniciar a busca é gerado um alerta sobre o nível inferior a 30 itens no estoque se algum produto estiver com número de itens inferior a margem estipulada. 2 -  Deve-se Adicionar um produto com número de itens inferior a 30  e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 3 - Deve-se editar a quantidade no estoque de um determinado produto deixando a quantidado abaixo de 30 itens e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 
+| Responsável pela elaborar do caso de Teste | Wenderson |
 
  
 > **Links Úteis**:
