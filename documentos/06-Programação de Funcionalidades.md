@@ -27,7 +27,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Wenderson
 
-Requisito Funcional: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
+Requisito Funcional 05: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3d8f8fe8-7f0b-4e8c-96dd-84e8f95049e2)
 
@@ -108,6 +108,18 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 
 
+### Funcionalidade deve alerta de produto que não tem saída/produto parado,
+
+Responsável: Wenderson
+
+Requisito Funcional - 07: A aplicação deve ser capaz de gerar alerta sobre o tempo de estoque parado de um determinado produto.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/238eafe9-0274-4e03-aec5-e1cdd8cd858d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d0cbea6f-d493-4349-a109-fc9a0970ac79)
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Wenderson/Alerta%20de%20produto%20parado%20no%20estoque
 
 
 [RF-X: adicione a descrição do requisito atendido]
