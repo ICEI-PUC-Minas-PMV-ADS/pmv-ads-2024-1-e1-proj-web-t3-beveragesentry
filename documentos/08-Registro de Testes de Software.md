@@ -37,7 +37,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-3 - A funcionalidade deve ser capaz de registrar entrada de mercadorias. |
 |:---|:---|
-| Resultados obtidos | 1 -  Ao inserir os dados do produto e clicar em adicionar item, foi possível adicionar o produto produto. 2 - Ao editar também é possível adicionar mais itens no produto alterando a quantidade do produto. |
+| Resultados obtidos | 1 -  Ao inserir os dados do produto e clicar em adicionar item, foi possível adicionar o produto produto. 
+2 - Ao editar também é possível adicionar mais itens no produto alterando a quantidade do produto. |
 | Responsável pela execução do caso de Teste | Wenderson | 
 
 
@@ -48,7 +49,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-4 - A funcionalidade deve criar alertas referentes aos dados de vencimento. |
 |:---|:---|
-| Resultados obtidos | 1 -  Ao cadastrar um item com a data de vencimento dentro dos próximos 30 dias foi gerado um alerta sinalizando que o produto vencerá em 30 dias. 2 - Ao adicionar um novo produto a aplicação foi capaz de sinalizar apenas o produto que está com data de vencimento dentro da margem de risco. 3 - Ao realizar a busca do produto a aplicação foi capaz de gerar um alerta sinalizando que o produto está vencido.  |
+| Resultados obtidos | 1 -  Ao cadastrar um item com a data de vencimento dentro dos próximos 30 dias foi gerado um alerta sinalizando que o produto vencerá em 30 dias. 
+2 - Ao adicionar um novo produto a aplicação foi capaz de sinalizar apenas o produto que está com data de vencimento dentro da margem de risco. 
+3 - Ao realizar a busca do produto a aplicação foi capaz de gerar um alerta sinalizando que o produto está vencido.  |
 | Responsável pela execução do caso de Teste | Wenderson |
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/dbde6f68-d50f-4e13-b029-025d34f268d4)
