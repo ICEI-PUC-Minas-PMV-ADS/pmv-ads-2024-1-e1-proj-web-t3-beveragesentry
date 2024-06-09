@@ -69,6 +69,15 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/695728fc-3680-4643-b2d3-a27fd86410ee)
 
 
+|Caso de Teste    | CT-6 - Alerta de produto que não tem saída/produto parado |
+|:---|:---|
+| Resultados obtidos | Descrever resultados do teste  |
+| Responsável pela execução do caso de Teste | Gustavo |
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/859998ff-179c-42b4-91fb-0ea4577f5e09)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/39625f9e-2175-4b3c-9bf2-6df87a94ed9b)
+
+
 
 
 
