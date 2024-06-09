@@ -77,6 +77,14 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/9749484f-c369-4261-89a1-67ff49e25965)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/39625f9e-2175-4b3c-9bf2-6df87a94ed9b)
 
+|Caso de Teste    | CT-7 -  RF-02 A aplicação deve ser capaz de registrar a saída de mercadorias. |
+|:---|:---|
+| Resultados obtidos | Quando o usuário efetua a venda "saída da mercadoria" ele consegue vender mais produtos do que há no localstorage, entretando a funcionalidade se mostrou responsiva!  |
+| Responsável pela execução do caso de Teste | Jaimir |
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/5dd45540-5014-4b5e-b968-819210b30f23)
+
+
 
 
 
