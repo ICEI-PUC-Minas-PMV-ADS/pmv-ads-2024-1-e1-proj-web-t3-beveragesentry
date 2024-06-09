@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "Brahma 600ml": 0,
             "Skol 600ml": 0,
             "Heineken 600ml": 0,
-            "Red Bull 250ml": 0,
+            "Red Bull 250ml": 0, 
             "Red Bull Tropical 250ml": 0,
             "Gatorade Laranja 500ml": 0,
             "Gatorade Morango 500ml": 0,
