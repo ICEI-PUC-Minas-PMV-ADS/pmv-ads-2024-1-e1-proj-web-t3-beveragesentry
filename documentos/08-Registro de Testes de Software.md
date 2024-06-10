@@ -94,7 +94,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-9 - A aplicação deve emitir alertas de erro ao buscar dados inválidos. |
 |:---|:---|
 | Resultados obtidos |  Quando uma solicitação de pesquisa é iniciada pelo usuário com um conjunto inválido de datas, onde a data inicial é posterior à data final, a aplicação dispara uma exceção, gerando um alerta de erro. Este alerta informa ao usuário que o intervalo de datas fornecido para o filtro não é válido.|
-| Responsável pela execução do caso de Teste | Paulo |
+| Responsável pela execução do caso de Teste | Paulo L. O. Ferreira |
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/49793213-9b20-4099-9aad-b025cc7dee98)
 
