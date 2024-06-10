@@ -126,6 +126,8 @@ Responsável: Gustavo
 
 Requisito Funcional RF- 06 A aplicação deve gerar estimativas de valores vendidos.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/af43a015-903d-4e27-9a6c-480ad15a3f89)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4478c866-a5de-4f01-bdb5-43543453ddbd)
 
 
 
