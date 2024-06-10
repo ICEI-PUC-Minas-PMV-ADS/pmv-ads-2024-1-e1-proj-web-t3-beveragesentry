@@ -62,7 +62,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-5 - A funcionalidade deve ser capaz de alertar o nível de estoque baixo |
 |:---|:---|
 | Resultados obtidos | 1 - Ao iniciar uma buscas de um determinado produto foi gerado o alerta informando que o produto "Brahma" estava abaixo do nível de segurança. 2 - Ao cadastrar um novo item no estoque foi gerado o alerta somente para o produto que estava abaixo da margem de segurança dos produtos   |
-| Responsável pela execução do caso de Teste | Paulo |
+| Responsável pela execução do caso de Teste | Gustavo Moraes |
 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e37d0973-b795-4d7f-bd70-3f32c4f3e0a7)
@@ -72,7 +72,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-6 - Alerta de produto que não tem saída/produto parado |
 |:---|:---|
 | Resultados obtidos | 1 - Ao adicionar ou remover itens dos produtos foi gerado um alerta no localstorage, onde estão armazenados são armazenados os produtos, informando quais são os produtos que não registraram saída dentro do tempo determinado. 2 - Ao recarregar a página onde estão os produtos foi gerado o alerta sinalizando somente o produto que não registrou saída dentro do tempo que foi determinado. |
-| Responsável pela execução do caso de Teste | Gustavo |
+| Responsável pela execução do caso de Teste | Gustavo Moraes |
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/9749484f-c369-4261-89a1-67ff49e25965)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/39625f9e-2175-4b3c-9bf2-6df87a94ed9b)
