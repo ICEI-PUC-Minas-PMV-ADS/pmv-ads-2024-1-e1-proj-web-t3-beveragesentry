@@ -92,6 +92,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a762e71b-6b7e-4772-9753-5c54f7a9bc9e)
 
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/ac3cd583-f690-432b-bc35-3fe5897d6f73)
 
 
 
