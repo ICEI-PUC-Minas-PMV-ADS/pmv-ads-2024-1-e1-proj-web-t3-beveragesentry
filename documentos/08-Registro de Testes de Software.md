@@ -98,5 +98,12 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/49793213-9b20-4099-9aad-b025cc7dee98)
 
+|Caso de Teste    | CT-10 - Funcionalidade deve criar alertas referente as datas de vencimento. |
+|:---|:---|
+| Resultados obtidos |  Após a inserção de um produto com uma data de validade iminente no sistema, uma função de alerta foi acionada automaticamente. Esta função gerou uma notificação em tempo real, indicando que o produto estava prestes a atingir seu prazo de validade e fornecendo uma contagem regressiva precisa do tempo restante até a data de vencimento do produto. |
+| Responsável pela execução do caso de Teste | Paulo L. O. Ferreira |
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/329db9e3-41e3-4b76-ac27-66477ab4c0cd)
+
 
 
