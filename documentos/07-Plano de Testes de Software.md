@@ -89,7 +89,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | 1 - Deve-se clicar no item de busca e confirmar se ao iniciar a busca é gerado um alerta sobre o nível inferior a 30 itens no estoque se algum produto estiver com número de itens inferior a margem estipulada. 2 -  Deve-se Adicionar um produto com número de itens inferior a 30  e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 3 - Deve-se editar a quantidade no estoque de um determinado produto deixando a quantidado abaixo de 30 itens e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 
 | Responsável pela elaborar do caso de Teste | Wenderson |
 
-|Caso de Teste    | CT-9 - A aplicação deve gerar estimativa de valores vendidos.  |
+|Caso de Teste    | CT-9 - A aplicação deve emitir alertas de erro ao buscar dados inválidos. |
 |:---|:---|
 | Requisitos Associados | RF-06 |
 | Objetivo do Teste | A aplicação deve ser capaz de gerar alerta quando a data de início for superiro à data de término da pesquisa. |
