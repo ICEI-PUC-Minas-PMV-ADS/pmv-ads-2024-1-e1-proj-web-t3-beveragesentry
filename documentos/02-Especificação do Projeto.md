@@ -95,15 +95,13 @@
 | RF-01 | A aplicação ser capaz de registrar a entrada de mercadorias.|Alta| 
 | RF-02 | A aplicação ser capaz de registrar a saída de mercadoria. |Alta|
 | RF-03 | A aplicação ser capaz de registrar indicativo de desempenho de vendas por tipo de produto.|Média|
-| RF-04 | A aplicação gerar base de dados com variações de sazonalidade de vendas.|Alta|
-| RF-05 | A aplicação ser capaz de gerar alerta quando estoque atinge margem de segurança de cada item.|Alta|
-| RF-06 | A aplicação deve gerar estimativa de valores vendidos.|Média|
-| RF-07 | A aplicação ser capaz de alertar sobre tempo de estoque parado de um determinado produto.|Média|
-| RF-08 | A aplicação deve permitir o usuário cadastrar uma conta.|Alta|
-| RF-09 | A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque.|Média| 
-| RF-10 | A aplicação deve criar alertas para produtos com data de vencimento próxima. |Média|
-| RF-11 | A aplicação deve alertar quantas vendas mensais cada funcionário realizou. |Alta|
-| RF-12 | A aplicação deve ser capaz de cadastrar e excluir itens do estoque.|Alta|
+| RF-04 | A aplicação ser capaz de gerar alerta quando estoque atinge margem de segurança de cada item.|Alta|
+| RF-05 | A aplicação deve gerar estimativa de valores vendidos.|Média|
+| RF-06 | A aplicação ser capaz de alertar sobre tempo de estoque parado de um determinado produto.|Média|
+| RF-07 | A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque.|Média| 
+| RF-08 | A aplicação deve criar alertas para produtos com data de vencimento próxima. |Média|
+| RF-09 | A aplicação deve ser capaz de emitir um relatório mensal de vendas de cada funcionário. |Alta|
+| RF-10 | A aplicação deve ser capaz de cadastrar itens do estoque.|Alta|
 
 
 **Prioridade: Alta / Média / Baixa. 
