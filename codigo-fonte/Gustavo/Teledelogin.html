@@ -16,21 +16,25 @@
                 <option value="colaborador">Colaborador</option>
               </select>
             <div class="input-container">
-                <input placeholder="Email" type="Email" required>
+                <input id= "login" placeholder="Email" type="Email" required>
                 <img width="20" height="20" src="https://img.icons8.com/ios/50/user--v1.png" alt="user--v1/>">
             </div>
             <div class="input-container">
-                <input placeholder="Senha" type="password">
+                <input id="senha" placeholder="Senha" type="password">
                 <img width="20" height="20" src="https://img.icons8.com/ios/50/lock--v1.png" alt="lock--v1"/>
                 <br><br>
                 <a href="#">Esqueci minha senha</a>
             </div>
-            <button type="submit" class="submit-button">Entrar</button>
+           <button type="submit" class="submit-button" onclick="logar(); return false">Entrar</button>
             <div class="register-link">
                 <p>Não está cadastrado? <a href="#">Cadastrar</a></p>
             </div>
         </form>
     </div>
-    
+
+
+
+
+    <script src="telalogin.js"></script>
 </body>
 </html>

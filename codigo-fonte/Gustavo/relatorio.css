@@ -72,3 +72,17 @@ h1{
    margin-top: 24px;
 }
 
+a{
+   color: white;
+}
+
+a:link{
+   text-decoration: none;
+}
+
+a:hover{
+   cursor: pointer;
+   transition: 1s;
+   color:#ca8c1a;
+}
+
