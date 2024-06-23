@@ -1,7 +1,7 @@
 body {
      
     background-image: linear-gradient(45deg, rgb(31 60 97), rgb(0 0 0));
-    font-family:arial, sans-serif, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
     padding: 40px;
     padding: 30px;
 }
@@ -22,12 +22,15 @@ body {
     padding: 10px;
     justify-content: center;
     align-items: center;
+   
+    
+
 }
 .btnvoltar1{
     border-style:none;
     width: 80px;
     height: 80px;
-    border-radius: 20%;
+    border-radius: 100%;
     background-color: rgb(175, 116, 6);
     color: white;
     cursor: pointer;
@@ -37,7 +40,6 @@ body {
     transition: 0.5s;
     width: 90px;
     height: 90px;
-    background-color: #605d5d; 
 }
 
 a{
@@ -52,6 +54,8 @@ align-items: center;
   color: rgb(245, 245, 245);
   border-style:outset;
   padding: 30px;
+ 
+ 
 }
 
 .btneditar
@@ -65,7 +69,7 @@ align-items: center;
      width: 100px;
      height: 110px;
      font-size: 20px;
-     border-radius: 20px;
+     border-radius: 10px;
      background-color: rgb(175, 116, 6);
      color: white;
      border: none;
@@ -78,13 +82,13 @@ align-items: center;
     transition: 0.5s;
     width: 115px;
     height: 115px;
-    border-radius: 10px;
-    background-color: #605d5d; 
 }
 
 .container{
     display: flex;
     padding: 15px;
+    
+
 }
 
 img{
@@ -97,7 +101,7 @@ img{
     padding: 15px;
     width: 390px;
     height: 360px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .logo1 {
@@ -106,7 +110,7 @@ img{
     padding: 10px;
     width: 320px;
     height: 320px;
-    border-radius: 20px;
+    border-radius: 40px;
 }
 
 .ptxt{
@@ -116,7 +120,7 @@ img{
     width: 1200px;
     height: 310px;
     color: white;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 
@@ -154,7 +158,6 @@ button{
 button:hover{
     transition: 0.5s;
     height: 290px;
-    background-color: #605d5d; 
 }
 
 
@@ -171,7 +174,6 @@ P{
     height: 150px;
     color: white;
     border-style: outset;
-    border-radius: 20px;
 }
 
 .infr:hover{
