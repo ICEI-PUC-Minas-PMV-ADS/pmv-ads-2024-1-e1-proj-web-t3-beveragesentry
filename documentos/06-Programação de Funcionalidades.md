@@ -4,7 +4,7 @@
 
 Responsável: Jaimir
 
-Requisito funcional: RF-07	A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque.	
+Requisito funcional: RF-09	A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar itens no estoque.	
 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/59624cd5-f469-4924-ac48-c002d0f614d3)
@@ -17,7 +17,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Gustavo
 
-Requisito funcional:  RF-08 A aplicação deve criar alertas para produtos com data de vencimento próxima.
+Requisito funcional:  RF-10 A aplicação deve criar alertas para produtos com data de vencimento próxima.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/329db9e3-41e3-4b76-ac27-66477ab4c0cd)
 
@@ -27,7 +27,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Wenderson
 
-Requisito Funcional 04: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
+Requisito Funcional 05: A aplicação deve ser capaz de gerar alerta quando o estoque atinge margem de segurança de cada item.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/3d8f8fe8-7f0b-4e8c-96dd-84e8f95049e2)
 
@@ -47,7 +47,7 @@ Requisito funcional: A aplicaçao ser responsável por cadastrar novos itens no 
 
 Código Fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/tree/main/codigo-fonte/Danilo
 
- ### Requisito Funcional 10: Funcionalidade deve ser capaz de registrar entrada de mercadorias.
+ ###  Funcionalidade deve ser capaz de registrar entrada de mercadorias.
 
 
 Responsável: Paulo
@@ -80,7 +80,7 @@ Codigo fonte:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-we
 
 
 
-###  Requisito Funcional 02: Funcionalidade deve ser capaz de registrar a saída de mercadorias
+###  Funcionalidade deve ser capaz de registrar a saída de mercadorias
 
 Responsável: Danillo
 
@@ -97,7 +97,7 @@ Código Fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-
 ###  Funcionalidade deve ser capaz de emitir um relatório mensal de vendas de cada funcionário.
 Responsável: Paulo Leonardo 
 
-Requisito Funcional: RF-09: A aplicação deve ser capaz de emitir um relatório mensal de vendas de cada funcionário.
+Requisito Funcional: RF-11 A aplicação deve ser capaz de emitir um relatório mensal de vendas de cada funcionário.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4c6afbd2-e4f8-400e-8081-da7effe39f82)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/a0e6fe48-7028-446f-9ca9-00df1aedfbdd)
@@ -112,7 +112,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Wenderson
 
-Requisito Funcional - 06: A aplicação deve ser capaz de gerar alerta sobre o tempo de estoque parado de um determinado produto.
+Requisito Funcional - 07: A aplicação deve ser capaz de gerar alerta sobre o tempo de estoque parado de um determinado produto.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/238eafe9-0274-4e03-aec5-e1cdd8cd858d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d0cbea6f-d493-4349-a109-fc9a0970ac79)
@@ -124,10 +124,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beverage
 
 Responsável: Gustavo
 
-Requisito Funcional RF- 05 A aplicação deve gerar estimativas de valores vendidos.
+Requisito Funcional RF- 06 A aplicação deve gerar estimativas de valores vendidos.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/af43a015-903d-4e27-9a6c-480ad15a3f89)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/4478c866-a5de-4f01-bdb5-43543453ddbd)
 
 
 

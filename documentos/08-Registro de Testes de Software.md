@@ -35,7 +35,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 <img width="947" alt="jaimir 4" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164421407/672da383-6360-4ff3-b2e9-6a31b8adbe22">
 
 
-|Caso de Teste    | CT-7 - A funcionalidade deve ser capaz de registrar entrada de mercadorias. |
+|Caso de Teste    | CT-3 - A funcionalidade deve ser capaz de registrar entrada de mercadorias. |
 |:---|:---|
 | Resultados obtidos | 1 -  Ao inserir os dados do produto e clicar em adicionar item, foi possível adicionar o produto produto. 2 - Ao editar também é possível adicionar mais itens no produto alterando a quantidade do produto. |
 | Responsável pela execução do caso de Teste | Wenderson | 
@@ -46,7 +46,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/d51fdcc0-ce25-4e55-abe0-e7b79293ee4c)
 
 
-|Caso de Teste    | CT-10 - A funcionalidade deve criar alertas referentes aos dados de vencimento. |
+|Caso de Teste    | CT-4 - A funcionalidade deve criar alertas referentes aos dados de vencimento. |
 |:---|:---|
 | Resultados obtidos | 1 -  Ao cadastrar um item com a data de vencimento dentro dos próximos 30 dias foi gerado um alerta sinalizando que o produto vencerá em 30 dias. 2 - Ao adicionar um novo produto a aplicação foi capaz de sinalizar apenas o produto que está com data de vencimento dentro da margem de risco. 3 - Ao realizar a busca do produto a aplicação foi capaz de gerar um alerta sinalizando que o produto está vencido.  |
 | Responsável pela execução do caso de Teste | Wenderson |
@@ -62,7 +62,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-5 - A funcionalidade deve ser capaz de alertar o nível de estoque baixo |
 |:---|:---|
 | Resultados obtidos | 1 - Ao iniciar uma buscas de um determinado produto foi gerado o alerta informando que o produto "Brahma" estava abaixo do nível de segurança. 2 - Ao cadastrar um novo item no estoque foi gerado o alerta somente para o produto que estava abaixo da margem de segurança dos produtos   |
-| Responsável pela execução do caso de Teste | Gustavo Moraes |
+| Responsável pela execução do caso de Teste | Paulo |
 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/e37d0973-b795-4d7f-bd70-3f32c4f3e0a7)
@@ -72,7 +72,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-6 - Alerta de produto que não tem saída/produto parado |
 |:---|:---|
 | Resultados obtidos | 1 - Ao adicionar ou remover itens dos produtos foi gerado um alerta no localstorage, onde estão armazenados são armazenados os produtos, informando quais são os produtos que não registraram saída dentro do tempo determinado. 2 - Ao recarregar a página onde estão os produtos foi gerado o alerta sinalizando somente o produto que não registrou saída dentro do tempo que foi determinado. |
-| Responsável pela execução do caso de Teste | Gustavo Moraes |
+| Responsável pela execução do caso de Teste | Gustavo |
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/9749484f-c369-4261-89a1-67ff49e25965)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164577375/39625f9e-2175-4b3c-9bf2-6df87a94ed9b)
@@ -91,19 +91,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/a762e71b-6b7e-4772-9753-5c54f7a9bc9e)
 
-|Caso de Teste    | CT-9 - A aplicação deve emitir alertas de erro ao buscar dados inválidos. |
-|:---|:---|
-| Resultados obtidos |  Quando uma solicitação de pesquisa é iniciada pelo usuário com um conjunto inválido de datas, onde a data inicial é posterior à data final, a aplicação dispara uma exceção, gerando um alerta de erro. Este alerta informa ao usuário que o intervalo de datas fornecido para o filtro não é válido.|
-| Responsável pela execução do caso de Teste | Paulo L. O. Ferreira |
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164354590/49793213-9b20-4099-9aad-b025cc7dee98)
 
-|Caso de Teste    | CT-10 - Funcionalidade deve criar alertas referente as datas de vencimento. |
-|:---|:---|
-| Resultados obtidos |  Após a inserção de um produto com uma data de validade iminente no sistema, uma função de alerta foi acionada automaticamente. Esta função gerou uma notificação em tempo real, indicando que o produto estava prestes a atingir seu prazo de validade e fornecendo uma contagem regressiva precisa do tempo restante até a data de vencimento do produto. |
-| Responsável pela execução do caso de Teste | Paulo L. O. Ferreira |
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/164961456/329db9e3-41e3-4b76-ac27-66477ab4c0cd)
 
 
 
