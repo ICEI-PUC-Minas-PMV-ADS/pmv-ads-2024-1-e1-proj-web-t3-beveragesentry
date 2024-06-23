@@ -64,3 +64,21 @@ h1 {
 span {
     color: #ccc;
 }
+
+a:link{
+    
+    text-decoration: none;
+    color: white;
+    text:color white;
+ }
+
+ a:hover{
+    color: hsl(49, 100%, 50%);
+    transition: 0.7s all;
+
+ }
+ 
+
+ a{
+    color: white;
+ }

@@ -89,12 +89,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | 1 - Deve-se clicar no item de busca e confirmar se ao iniciar a busca é gerado um alerta sobre o nível inferior a 30 itens no estoque se algum produto estiver com número de itens inferior a margem estipulada. 2 -  Deve-se Adicionar um produto com número de itens inferior a 30  e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 3 - Deve-se editar a quantidade no estoque de um determinado produto deixando a quantidado abaixo de 30 itens e confirmar se será gerado o alerta sinalizando o número de estoque abaixo da margem estipulada. 
 | Responsável pela elaborar do caso de Teste | Wenderson |
 
-|Caso de Teste    | CT-9 - A aplicação deve gerar estimativa de valores vendidos.  |
+|Caso de Teste    | CT-9 - A aplicação deve emitir alertas de erro ao buscar dados inválidos. |
 |:---|:---|
 | Requisitos Associados | RF-06 |
 | Objetivo do Teste | A aplicação deve ser capaz de gerar alerta quando a data de início for superiro à data de término da pesquisa. |
 | Critérios de êxito | 1 Clique no campo de entrada e selecione uma data que seja posterior à data atual. Em seguida, clique no campo de entrada e selecione uma data que seja anterior à data de início. 2 - Após inserir as datas, clique no botão “Buscar” para enviar o formulário. 3 - Observe o alerta. Como a data de início é posterior à data de término, um alerta deve aparecer na tela com a mensagem “A data de início deve ser anterior à data de término.”
-| Responsável pela elaborar do caso de Teste | Gustavo |
+| Responsável pela elaborar do caso de Teste | Gustavo Moraes|
+
+|Caso de Teste    | CT-10 - Funcionalidade deve criar alertas referente as datas de vencimento. |
+|:---|:---|
+| Requisitos Associados | RF-10 |
+| Objetivo do Teste | A aplicação deve ser capaz de gerar alerta quando o produto estiver próximo a data de vencimento. |
+| Critérios de êxito | Após a inserção de um item no sistema, juntamente com a respectiva data de validade, o sistema é programado para monitorar continuamente esses parâmetros. Quando o produto se aproxima do seu prazo de validade, o sistema automaticamente gera e exibe um alerta. Este alerta contém informações detalhadas sobre a iminência do vencimento do produto, incluindo a quantidade exata de tempo restante até a data de vencimento.
+| Responsável pela elaborar do caso de Teste | Gustavo Moraes |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
