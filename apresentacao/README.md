@@ -2,8 +2,6 @@
 
 ## Conjunto de Slides
 
- [Apresentação1 (3).pdf](https://github.com/user-attachments/files/15945864/Apresentacao1.3.pdf)
-
 [SLIDE DE APRESENTAÇÃO DA ETAPA -1.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/files/14751129/SLIDE.DE.APRESENTACAO.DA.ETAPA.-1.pdf)
 
 ## Vídeo de apresentação

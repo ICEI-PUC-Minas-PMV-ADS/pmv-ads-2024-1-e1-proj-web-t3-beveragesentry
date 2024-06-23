@@ -12,14 +12,14 @@ body{
 header{
     justify-content: start;
     align-items: start;
-    background-color: rgb(240, 240, 240);
+    background-color: cadetblue;
     
     
 }
 
 .btnsair {
     font-size: 20px;
-    color: rgb(243, 144, 15);
+    color: aliceblue;
     display: flex;
     flex-direction: row;
     justify-content: end;
@@ -53,7 +53,6 @@ header{
  }
 
  .imgf{
-    color: white;
     width: 350px;
     height: 350px;
     border-radius: 100%;
@@ -85,25 +84,7 @@ header{
 
  .user1 {
     font-size: 30px;
-    background-color: rgb(29, 60, 95);
+    background-color: rgb(19, 63, 99);
     border-radius: 10px;
-    color: white;
- }
 
- a:link{
-    
-    text-decoration: none;
-    color: white;
-    text:color white;
- }
-
- a:hover{
-    color: hsl(194, 100%, 54%);
-    transition: 0.7s all;
-
- }
- 
-
- a{
-    color: white;
  }
