@@ -92,3 +92,13 @@ body {
     flex-direction: row;
     text-justify: auto;
   }
+
+  a{
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover{
+    transition: 1s;
+    color: #ca8c1a;
+  }

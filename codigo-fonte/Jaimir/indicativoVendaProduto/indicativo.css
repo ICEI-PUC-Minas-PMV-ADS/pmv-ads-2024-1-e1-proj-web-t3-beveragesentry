@@ -80,3 +80,12 @@ h1{
     color: #fff;
 }
 
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    color: white;
+}
+

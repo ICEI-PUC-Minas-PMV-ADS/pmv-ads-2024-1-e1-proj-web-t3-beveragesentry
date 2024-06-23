@@ -116,3 +116,13 @@ button:hover {
 .clear-button:hover {
     background-color: #605d5d;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    transition: 1s;
+    color: #ca8c1a;
+}
