@@ -12,9 +12,17 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 > - taxa de FPS limitada a 30 quadros por segundo
 > - resolução HD (720p) ou Full HD (1080p)
 > - formato mp4.
+>
+> - Vídeo mostrando as funcionalidades do nosso projeto.
+> - 
+> - https://youtu.be/w4x3-zU-Uvs
+>
+> - (devido mesmo o vídeo atendendo os requisitos o github não aceitou, sendo assim tive que usar de outro meio para compartilhar o projeto).
+> - ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/f465faaa-8c89-4517-b7b4-1a638be68474)
+> - O vídeo contém apenas 30MB.
 
 [Adicione vídeo de apresentação.]
 
 ## Hospedagem
 
-[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+https://beveragesentry.000webhostapp.com/
