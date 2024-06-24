@@ -10,7 +10,7 @@
  
 https://youtu.be/w4x3-zU-Uvs
 
-  ##(devido mesmo o vídeo atendendo os requisitos o github não aceitou, sendo assim tive que usar de outro meio para compartilhar o projeto).
+  ##( Mesmo o vídeo atendendo a todos os requisitos o github não aceitou, sendo assim tivemos que usar de outro meio para compartilhar o projeto).
    ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry/assets/126877154/f465faaa-8c89-4517-b7b4-1a638be68474)
   ## O vídeo contém apenas 30MB.
 
