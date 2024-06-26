@@ -39,7 +39,7 @@ para o controle em tempo real de seus inventários.
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* https://beveragesentry.000webhostapp.com/ 
 
 # Código-Fonte
 
