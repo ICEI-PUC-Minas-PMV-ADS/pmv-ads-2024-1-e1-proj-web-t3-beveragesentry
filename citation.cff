@@ -1,29 +1,26 @@
 message: Please cite this software using these metadata.
-title:
+title: BeverageSentry
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+ 
+  - family-names: Alves Ferreira Neves
+    given-names: Danillo 
+  - family-names: de Moraes Leite Figueiredo
+    given-names: Gustavo 
+  - family-names: Silvano Júnior
+    given-names: Jaimir 
+  - family-names: Leonardo de Oliveira Ferreira
+    given-names: Paulo 
+ - family-names: Douglas Oliveira
+    given-names: Wenderson
+
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Alves Nogueira
+    given-names: Simone
+  
 keywords:
-  - 
-  - 
-repository-code: 
+  - Controle de estoque
+  - Estoque de bebidas
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t3-beveragesentry
 version: 1.0.0
-date-released: 2023-10-31
+date-released: 2024-06-25
