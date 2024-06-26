@@ -39,7 +39,8 @@ para o controle em tempo real de seus inventários.
 
 # Hospedagem
 
-* https://beveragesentry.000webhostapp.com/ 
+* https://beveragesentry.000webhostapp.com/
+* email: admin@admin.com e senha: admin
 
 # Código-Fonte
 
